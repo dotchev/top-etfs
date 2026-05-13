@@ -1,0 +1,601 @@
+Ticker,Name,AssetClass,Category,Sharpe,Sortino,Volatility_pct,Return_3Y_pct,Return_YTD_pct,Return_1Y_pct,Return_5Y_pct,YieldTTM_pct,ExpenseRatio_pct,Assets_USD,Inception
+CLOI,VanEck CLO ETF,Taxable Bond,Securitized Bond - Focused,2.860,6.510,0.84,7.03,1.33,5.65,,5.53,0.36,1310000000,2022-06-21
+MINT,PIMCO Enhanced Short Maturity Active ETF,Taxable Bond,Ultrashort Bond,2.810,6.230,0.33,5.48,1.37,4.82,3.40,4.48,0.36,15980000000,2009-11-16
+FLOT,iShares Floating Rate Bond ETF,Taxable Bond,Ultrashort Bond,2.800,7.490,0.43,5.78,1.38,5.02,4.13,4.72,0.15,9280000000,2011-06-14
+FLRN,State Street SPDR Blmbg InvGrdFltRtETF,Taxable Bond,Ultrashort Bond,2.670,6.610,0.43,5.76,1.40,5.01,4.12,4.69,0.15,2790000000,2011-11-30
+ICLO,Invesco AAA CLO Floating Rate Note ETF,Taxable Bond,Securitized Bond - Focused,2.570,6.460,0.84,6.86,1.98,6.31,,5.36,0.19,439630000,2022-12-09
+PULS,PGIM Ultra Short Bond ETF,Taxable Bond,Ultrashort Bond,2.520,5.320,0.40,5.61,1.35,4.94,4.06,5.09,0.15,14550000000,2018-04-05
+UYLD,Angel Oak UltraShort Income ETF,Taxable Bond,Ultrashort Bond,2.500,7.330,0.56,6.01,1.25,4.91,,4.90,0.34,1390000000,2022-10-24
+CLOA,iShares AAA CLO Active ETF,Taxable Bond,Securitized Bond - Focused,2.470,6.180,0.84,6.76,1.59,5.88,,5.21,0.20,1940000000,2023-01-10
+VRIG,Invesco Variable Rate Investment Grd ETF,Taxable Bond,Ultrashort Bond,2.370,5.440,0.63,6.19,1.68,5.61,4.43,4.89,0.30,1480000000,2016-09-20
+TUSI,Touchstone Ultra Short Income ETF,Taxable Bond,Ultrashort Bond,2.360,6.710,0.51,5.80,1.25,4.72,,4.62,0.25,409840000,2022-08-04
+OPPJ,WisdomTree Japan Opportunities ETF,International Equity,Japan Stock,2.190,6.190,12.08,35.21,22.85,66.80,25.03,1.67,0.58,248160000,2013-06-28
+CSHI,NEOS Enhanced Inc 1-3 Month T-Bill ETF,Taxable Bond,Ultrashort Bond,2.160,6.700,0.32,5.52,1.84,5.63,,4.97,0.39,994710000,2022-08-29
+JAAA,Janus Henderson AAA CLO ETF,Taxable Bond,Securitized Bond - Focused,2.150,4.870,0.94,6.71,1.43,5.63,4.73,5.62,0.20,26670000000,2020-10-16
+FLTR,VanEck IG Floating Rate ETF,Taxable Bond,Ultrashort Bond,2.100,4.100,0.78,6.33,1.28,5.45,4.37,4.88,0.14,2660000000,2011-04-25
+TBUX,T. Rowe Price Ultra Short-Term Bond ETF,Taxable Bond,Ultrashort Bond,2.070,5.430,0.57,5.83,1.23,4.89,,4.45,0.17,1100000000,2021-09-28
+EMNT,PIMCO Enhanced Short Mtrty Actv ESG ETF,Taxable Bond,Ultrashort Bond,2.060,5.680,0.31,5.24,1.29,4.44,3.39,4.23,0.24,206680000,2019-12-10
+GDE,WisdomTree Efcnt Gld Pls Eq Stgy ETF,Alternative,Multi-Asset Overlay,1.990,3.520,18.12,46.88,9.70,66.35,,4.26,0.20,577440000,2022-03-15
+CLSE,Convergence Long/Short Equity ETF,Nontraditional Equity,Long-Short Equity,1.990,5.160,10.96,29.13,14.49,44.71,,0.93,1.52,363010000,2009-12-29
+DXJ,WisdomTree Japan Hedged Equity ETF,International Equity,Japan Stock,1.970,5.010,12.97,33.75,12.42,51.53,25.74,1.21,0.48,5850000000,2006-06-16
+FUSI,American Century Multisector Flt Inc ETF,Taxable Bond,Ultrashort Bond,1.930,3.770,0.68,5.99,1.66,5.36,,5.40,0.27,22710000,2023-03-14
+DBJP,Xtrackers MSCI Japan Hedged Equity ETF,International Equity,Japan Stock,1.840,4.380,12.15,29.70,12.18,48.54,20.60,2.72,0.45,568340000,2011-06-09
+LVHI,Franklin Intl Low Volatility Hi Div ETF,International Equity,Foreign Large Value,1.830,4.420,8.12,21.05,11.72,34.73,16.75,3.78,0.40,4590000000,2016-07-27
+HEWJ,iShares Currency Hedged MSCI Japan ETF,International Equity,Japan Stock,1.820,4.240,12.09,29.38,11.65,47.54,20.46,4.78,0.49,700460000,2014-01-31
+QTAP,Innovator Growth-100 Acltd Ps ETF April,Nontraditional Equity,Defined Outcome,1.780,5.910,8.96,22.29,11.05,30.61,13.12,,0.79,14820000,2021-03-31
+FLJH,Franklin FTSE Japan Hedged ETF,International Equity,Japan Stock,1.750,3.970,12.22,28.42,11.80,43.23,20.03,5.62,0.09,132580000,2017-11-02
+AAA,Alternative AccessFirstPriorityCLO BdETF,Taxable Bond,Securitized Bond - Focused,1.720,2.990,1.02,6.46,1.20,5.39,4.51,5.00,0.25,42350000,2020-09-08
+XMAR,FT Vest U.S. Eq Enh&ModBufETF-Mar,Nontraditional Equity,Defined Outcome,1.720,4.720,3.50,11.18,5.32,14.93,,,0.85,133740000,2023-03-17
+XTAP,Innovator US Equity Acltd Pls ETF April,Nontraditional Equity,Defined Outcome,1.660,4.470,7.52,18.27,8.70,25.26,10.84,,0.79,19630000,2021-03-31
+FLRT,Pacer Aristotle Pac Ast Fl Rt Hi Inc ETF,Taxable Bond,Bank Loan,1.650,3.420,2.31,8.65,0.89,6.92,5.86,6.93,0.60,598200000,2015-02-18
+XBAP,Innovator US Eq Acltd 9 Bfr ETFTM April,Nontraditional Equity,Defined Outcome,1.630,4.230,5.27,13.93,6.40,18.23,9.64,,0.79,129340000,2021-03-31
+CVSB,Calvert Ultra-Short Investment Grade ETF,Taxable Bond,Ultrashort Bond,1.580,3.730,0.54,5.52,1.03,4.53,,4.49,0.24,198530000,2023-01-30
+SMH,VanEck Semiconductor ETF,Sector Equity,Technology,1.580,4.660,30.34,60.75,40.70,140.57,33.86,0.29,0.35,40980000000,2011-12-20
+VEMY,Virtus Stone Harbor Emr Mkt Hi Yld BdETF,Taxable Bond,Emerging Markets Bond,1.570,3.250,6.51,15.67,4.96,20.29,,9.02,0.55,20610000,2022-12-12
+EINC,VanEck Energy Income ETF,Sector Equity,Energy Limited Partnership,1.540,3.300,14.96,30.07,26.96,34.47,23.90,2.89,0.46,139970000,2012-03-12
+GLDM,SPDR Gold MiniShares,Commodities,Commodities Focused,1.510,3.130,16.44,32.26,7.03,40.01,21.02,,0.10,29620000000,2018-06-25
+ATMP,Barclays ETN+ Select MLP,Sector Equity,Energy Limited Partnership,1.510,3.400,14.92,29.56,24.46,30.95,26.07,4.50,0.95,646730000,2013-03-12
+IAUM,iShares Gold Trust Micro,Commodities,Commodities Focused,1.510,3.120,16.50,32.27,6.96,39.93,,,0.09,7150000000,2021-06-15
+HYGH,iShares Interest Rate Hdg Hi Yld Bd ETF,Taxable Bond,High Yield Bond,1.510,3.410,3.27,9.91,2.20,10.12,6.84,6.79,0.52,453490000,2014-05-27
+SGOL,abrdn Physical Gold Shares ETF,Commodities,Commodities Focused,1.510,3.120,16.46,32.15,7.01,39.78,20.96,,0.17,7870000000,2009-09-09
+BAR,GraniteShares Gold Trust,Commodities,Commodities Focused,1.510,3.100,16.45,32.13,6.90,39.75,20.91,,0.17,1590000000,2017-08-23
+AAAU,Goldman Sachs Physical Gold ETF,Commodities,Commodities Focused,1.500,3.100,16.48,32.12,6.93,39.74,20.92,,0.18,2820000000,2018-07-24
+MAYW,AllianzIM US Equity Buffer20 May ETF,Nontraditional Equity,Defined Outcome,1.500,3.360,3.92,10.93,2.03,10.92,,,0.74,66740000,2023-04-28
+IAU,iShares Gold Trust,Commodities,Commodities Focused,1.500,3.100,16.48,32.06,7.00,39.70,20.84,,0.25,70520000000,2005-01-21
+PULT,Putnam ESG Ultra Short ETF,Taxable Bond,Ultrashort Bond,1.500,3.120,0.51,5.42,0.89,4.35,,4.68,0.25,47980000,2023-01-19
+OUNZ,VanEck Merk Gold Trust,Commodities,Commodities Focused,1.500,3.090,16.51,32.05,7.02,39.77,20.85,,0.25,2850000000,2014-05-16
+XLC,State Street CommServSelSectSPDRETF,Sector Equity,Communications,1.490,2.940,13.22,26.19,-0.71,23.58,9.44,1.26,0.08,24110000000,2018-06-18
+GSY,Invesco Ultra Short Duration ETF,Taxable Bond,Ultrashort Bond,1.490,3.270,0.56,5.55,1.52,4.89,3.64,4.43,0.22,3640000000,2008-02-12
+GLD,SPDR Gold Shares,Commodities,Commodities Focused,1.490,3.070,16.48,31.86,6.90,39.47,20.66,,0.40,155110000000,2004-11-18
+FGDL,Franklin Responsibly Sourced Gold ETF,Commodities,Commodities Focused,1.490,3.060,16.70,32.21,6.70,39.68,,,0.15,475580000,2022-06-30
+IXP,iShares Global Comm Services ETF,Sector Equity,Communications,1.490,2.980,13.09,25.93,1.88,30.10,9.65,3.15,0.40,568800000,2001-11-12
+BGLD,FT Vest Gold Strategy Qt Buffer ETF,Nontraditional Equity,Defined Outcome,1.480,2.800,9.63,20.15,0.48,16.71,12.07,44.12,0.91,51560000,2021-01-20
+DGP,DB Gold Double Long ETN,Miscellaneous,Leveraged Commodities,1.480,2.990,32.39,59.45,9.30,75.73,36.05,,0.75,294770000,2008-02-27
+MLPX,Global X MLP&Energy Infrastructure ETF,Sector Equity,Energy Limited Partnership,1.480,3.160,15.21,29.36,26.74,32.43,24.27,4.06,0.45,3290000000,2013-08-06
+HAWX,iShares Currency Hdgd MSCI ACWI exUS ETF,International Equity,Foreign Large Blend,1.470,2.730,9.25,19.44,9.73,34.18,12.29,2.70,0.35,313020000,2015-06-29
+USD,ProShares Ultra Semiconductors,Miscellaneous,Leveraged Equity,1.470,3.910,69.64,129.90,48.25,304.95,60.23,0.50,0.95,1480000000,2007-01-30
+ENFR,Alerian Energy Infrastructure ETF,Sector Equity,Energy Limited Partnership,1.460,3.060,14.92,28.60,25.66,32.64,23.04,4.01,0.35,437020000,2013-10-31
+QTUM,Defiance Quantum ETF,Sector Equity,Technology,1.460,3.710,25.31,46.40,22.47,80.80,23.84,1.10,0.40,3250000000,2018-09-04
+FLUD,Franklin Ultra Short Bond ETF,Taxable Bond,Ultrashort Bond,1.460,3.240,0.49,5.42,1.10,4.67,3.57,4.48,0.15,232500000,2020-07-14
+QSPT,FT Vest Nasdaq-100 Buffer ETF Sep,Nontraditional Equity,Defined Outcome,1.460,3.470,9.68,19.91,5.76,25.25,,,0.90,528070000,2021-09-17
+LONZ,PIMCO Sr Ln Actv ETF,Taxable Bond,Bank Loan,1.460,2.950,2.49,8.50,1.39,8.01,,8.05,0.63,374820000,2022-06-08
+EUFN,iShares MSCI Europe Financials ETF,International Equity,Europe Stock,1.450,2.930,16.03,30.26,1.67,31.29,18.86,3.81,0.49,3420000000,2010-01-20
+PMAY,Innovator U.S. Equity Power BffrETF-May,Nontraditional Equity,Defined Outcome,1.450,3.230,4.87,12.20,2.40,13.02,6.97,,0.79,593020000,2020-04-30
+KNCT,Invesco Next Gen Connectivity ETF,Sector Equity,Technology,1.450,3.660,18.43,34.36,26.92,66.85,16.08,0.90,0.40,106910000,2005-06-23
+EWJV,iShares MSCI Japan Value ETF,International Equity,Japan Stock,1.450,2.750,12.16,23.89,9.41,33.67,13.61,5.00,0.15,723810000,2019-03-05
+BUFQ,FT Vest Laddered Nasdaq Buffer ETF,Nontraditional Equity,Defined Outcome,1.440,3.010,8.59,18.02,6.39,26.85,,,1.00,1210000000,2022-06-15
+GSST,Goldman Sachs Ultra Short Bond ETF,Taxable Bond,Ultrashort Bond,1.440,2.950,0.56,5.52,1.20,4.67,3.69,4.42,0.16,1410000000,2019-04-15
+SPMO,Invesco S&P 500 Momentum ETF,U.S. Equity,Large Blend,1.440,3.470,18.98,34.85,12.44,42.71,20.43,0.91,0.13,12320000000,2015-10-09
+GLDI,UBS ETRACS Gold Shares Covered Call ETN,Commodities,Commodities Focused,1.430,2.480,9.78,19.79,2.58,23.88,12.13,20.53,0.65,166470000,2013-01-29
+UMI,USCF Midstream Energy Income ETF,Sector Equity,Energy Limited Partnership,1.430,3.020,14.82,27.82,24.05,31.28,23.87,5.97,0.69,510640000,2021-03-24
+IDVO,Amplify CWP International Enh Div IncETF,Nontraditional Equity,Derivative Income,1.430,3.130,12.34,23.86,13.26,41.57,,5.55,0.65,1030000000,2022-09-07
+SEIV,SEI Enhanced US Large Cap Value Fac ETF,U.S. Equity,Large Value,1.430,2.920,12.74,24.42,7.04,40.92,,1.51,0.15,1170000000,2022-05-16
+ROKT,Stt Strt SPDR S&PKenshoFnlFrntrsETF,Sector Equity,Industrials,1.430,3.570,22.95,41.20,31.07,110.78,22.81,0.34,0.45,80470000,2018-10-19
+QMAR,FT Vest Nasdaq-100 Buffer ETF  Mar,Nontraditional Equity,Defined Outcome,1.420,2.770,8.38,17.52,9.84,27.10,11.62,,0.90,478050000,2021-03-19
+GVIP,Goldman Sachs Hedge Industry VIP ETF,U.S. Equity,Large Growth,1.420,2.900,16.18,29.79,7.87,39.19,11.37,0.36,0.45,429990000,2016-11-01
+XTL,State Street SPDR S&P Telecom ETF,Sector Equity,Communications,1.420,3.200,25.86,45.74,47.74,136.92,19.95,1.05,0.35,418310000,2011-01-26
+DBP,Invesco DB Precious Metals,Commodities,Commodities Focused,1.420,2.690,17.99,32.71,5.62,51.14,19.86,2.29,0.75,270000000,2007-01-05
+QDEC,FT Vest Nasdaq-100 Buffer ETF  Dec,Nontraditional Equity,Defined Outcome,1.410,2.920,8.63,17.79,5.59,29.76,10.19,,0.90,600700000,2020-12-18
+HGER,Harbor Commodity All-Weather StrategyETF,Commodities,Commodities Broad Basket,1.410,3.670,10.70,21.14,31.31,49.06,,5.69,0.68,2780000000,2022-02-09
+DBAW,Xtrackers MSCI All World exUS Hdg Eq ETF,International Equity,Foreign Large Blend,1.410,2.650,9.49,19.13,9.57,34.78,11.74,3.78,0.40,225170000,2014-01-22
+USG,USCF Gold Strategy Plus Income Fund,Commodities,Commodities Focused,1.410,2.610,14.88,27.57,6.18,33.24,,25.88,0.45,14710000,2021-11-02
+WLDR,Affinity World Leaders Equity ETF,International Equity,Global Large-Stock Value,1.410,2.930,15.10,27.91,15.10,55.31,16.45,1.38,0.67,62840000,2018-01-16
+BBLU,EA Bridgeway Blue Chip ETF,U.S. Equity,Large Blend,1.410,2.810,11.69,22.47,4.46,29.65,,1.30,0.15,363320000,1997-07-31
+DYNF,iShares U.S. Equity Fac Rotation Act ETF,U.S. Equity,Large Blend,1.410,2.870,13.88,25.89,5.45,33.02,14.85,1.03,0.26,30010000000,2019-03-19
+PJFV,PGIM Jennison Focused Value ETF,U.S. Equity,Large Value,1.400,2.720,12.75,24.08,11.84,38.88,,0.67,0.75,42790000,2022-12-12
+SEIX,Virtus Seix Senior Loan ETF,Taxable Bond,Bank Loan,1.400,2.950,2.30,8.08,2.12,7.65,5.92,7.50,0.57,240760000,2019-04-23
+IOO,iShares Global 100 ETF,International Equity,Global Large-Stock Blend,1.400,2.970,13.01,24.47,6.77,42.14,16.00,0.96,0.40,7590000000,2000-12-05
+BMAY,Innovator U.S. Equity Buffer ETF- May,Nontraditional Equity,Defined Outcome,1.400,2.850,7.07,15.24,3.04,17.09,8.69,,0.79,140200000,2020-04-30
+QLC,FlexShares US Quality Large Cap ETF,U.S. Equity,Large Blend,1.400,2.750,12.89,24.23,6.11,36.64,13.95,1.01,0.25,797090000,2015-09-23
+VOX,Vanguard Communication Services ETF,Sector Equity,Communications,1.400,2.620,14.79,27.16,1.90,35.59,8.36,1.05,0.09,5780000000,2004-09-23
+NVDL,GraniteShares 2x Long NVDA Daily ETF,Miscellaneous,Leveraged Equity,1.400,3.350,81.33,137.41,6.12,169.16,,,1.05,3730000000,2022-12-12
+EPU,iShares MSCI Peru ETF,International Equity,Focused Region,1.400,2.910,24.40,42.47,9.70,83.15,25.23,1.46,0.59,517880000,2009-06-19
+MAYT,AllianzIM US Equity Buffer10 May ETF,Nontraditional Equity,Defined Outcome,1.390,2.910,6.79,14.77,2.81,16.48,,,0.74,16650000,2023-04-28
+FCOM,Fidelity MSCI Communication ServicesETF,Sector Equity,Communications,1.390,2.600,14.80,26.97,1.80,35.28,8.19,1.00,0.08,1610000000,2013-10-21
+MAGS,Roundhill Magnificent Seven ETF,Sector Equity,Technology,1.390,2.810,21.39,37.30,0.42,46.15,,1.69,0.29,3500000000,2023-04-10
+RAVI,FlexShares Ultra-Short Income ETF,Taxable Bond,Ultrashort Bond,1.390,2.150,0.38,5.21,1.10,4.55,3.44,4.50,0.25,1420000000,2012-10-09
+EWO,iShares MSCI Austria ETF,International Equity,Focused Region,1.390,2.710,16.28,29.34,10.03,52.36,16.18,2.38,0.49,122340000,1996-03-12
+TRFK,Pacer Data and Digital Revolution ETF,Sector Equity,Technology,1.390,3.520,27.72,47.60,26.96,76.32,,0.01,0.49,441840000,2022-06-08
+JEPQ,JPMorgan Nasdaq Equity Premium Inc ETF,Nontraditional Equity,Derivative Income,1.380,2.500,11.00,21.07,4.73,28.95,,11.11,0.35,34270000000,2022-05-03
+IDMO,Invesco S&P International Dev Momt ETF,International Equity,Foreign Large Blend,1.380,2.480,13.46,24.87,7.42,31.68,15.45,2.06,0.25,3200000000,2012-02-24
+GARP,iShares MSCI USA Quality GARP ETF,U.S. Equity,Large Growth,1.380,2.830,17.28,30.76,7.45,40.73,17.41,0.32,0.15,1360000000,2020-01-14
+SIXJ,AllianzIM US Equity 6M Bfr10 Jan/Jul ETF,Nontraditional Equity,Defined Outcome,1.380,2.750,6.29,13.96,3.70,18.98,,,0.74,144670000,2021-12-31
+PPA,Invesco Aerospace&Defense ETF,Sector Equity,Industrials,1.380,2.660,15.88,28.48,6.94,38.12,18.16,0.40,0.58,7850000000,2005-10-26
+WLTG,WealthTrust DBS Long Term Growth ETF,U.S. Equity,Large Blend,1.380,2.590,12.85,23.81,6.24,34.97,,0.42,0.74,69700000,2021-12-06
+GREK,Global X MSCI Greece ETF,International Equity,Focused Region,1.380,2.450,20.36,35.44,6.13,46.42,23.47,3.59,0.56,272540000,2011-12-07
+MSMR,McElhenny Sheffield Managed Risk ETF,Allocation,Moderate Allocation,1.380,2.500,10.44,20.12,4.15,25.40,,1.95,1.06,159010000,2021-11-16
+RAAX,VanEck Real Assets ETF,Allocation,Global Moderate Allocation,1.380,2.790,11.42,21.72,21.33,45.75,15.17,2.01,0.69,719450000,2018-04-09
+IPKW,Invesco Intl BuyBack Achiev ETF,International Equity,Foreign Large Value,1.380,2.650,12.70,23.59,6.77,35.76,10.56,3.67,0.55,514190000,2014-02-27
+TMFC,Motley Fool 100 ETF,U.S. Equity,Large Growth,1.370,2.880,15.46,27.75,3.73,31.68,14.72,0.16,0.50,1780000000,2018-01-29
+IGM,iShares Expanded Tech Sector ETF,Sector Equity,Technology,1.370,3.110,21.23,36.75,10.74,54.64,17.86,0.18,0.39,7750000000,2001-03-13
+UGL,ProShares Ultra Gold,Miscellaneous,Leveraged Commodities,1.370,2.760,32.76,54.93,6.59,68.68,32.68,,1.19,1060000000,2008-12-01
+GMAR,FT Vest U.S. Eq Mod Buffr ETF - Mar,Nontraditional Equity,Defined Outcome,1.370,2.850,5.24,12.37,6.29,17.70,,,0.85,379110000,2023-03-17
+TFLR,T. Rowe Price Floating Rate ETF,Taxable Bond,Bank Loan,1.370,2.400,2.36,8.09,0.97,6.91,,6.97,0.61,536100000,2022-11-16
+TPYP,Tortoise North American Pipeline,Sector Equity,Energy Limited Partnership,1.370,2.790,14.21,25.84,23.91,29.06,20.49,3.22,0.40,879400000,2015-06-29
+IGLD,FT Vest Gold Strategy Trgt Inc ETF,Commodities,Commodities Focused,1.370,2.430,12.74,23.59,4.99,31.48,14.95,12.50,0.85,566950000,2021-03-02
+BRNY,Burney U.S. Factor Rotation ETF,U.S. Equity,Mid-Cap Blend,1.370,2.980,14.94,26.88,7.53,35.08,,0.39,0.79,473990000,2022-10-13
+CGDV,Capital Group Dividend Value ETF,U.S. Equity,Large Value,1.370,2.700,12.92,23.76,6.62,34.63,,1.34,0.33,29110000000,2022-02-22
+EIS,iShares MSCI Israel ETF,International Equity,Focused Region,1.370,2.620,21.06,36.24,18.84,69.49,15.47,1.36,0.59,892450000,2008-03-26
+DARP,Grizzle Growth ETF,U.S. Equity,Large Growth,1.360,3.000,21.27,36.54,21.00,94.59,,0.42,0.75,29280000,2021-12-15
+LTL,ProShares Ultra Communication Services,Miscellaneous,Leveraged Equity,1.360,2.610,26.76,44.81,-4.21,40.29,19.53,0.93,0.95,8670000,2008-03-25
+SDCI,USCF SummerHaven Dyn CmdtyStgy NoK-1 ETF,Commodities,Commodities Broad Basket,1.360,3.270,12.42,23.03,29.55,46.10,21.32,2.98,0.60,519250000,2018-05-03
+NOCT,Innovator Growth-100 Pwr Buff ETF Oct,Nontraditional Equity,Defined Outcome,1.360,3.100,7.31,15.29,4.75,20.97,10.00,,0.79,224340000,2019-09-30
+AFIF,Anfield Universal Fixed Income ETF,Taxable Bond,Multisector Bond,1.360,2.340,1.90,7.37,1.06,6.07,3.65,3.69,1.08,225710000,2018-09-18
+RFEM,First Trust RiverFront Dyn Em Mkts ETF,International Equity,Diversified Emerging Mkts,1.360,2.720,13.39,24.33,17.13,44.91,8.90,1.99,0.99,69060000,2016-06-14
+SIXA,ETC 6 Meridian Mega Cap Equity ETF,U.S. Equity,Large Value,1.350,2.470,10.40,19.80,10.24,20.19,13.17,2.04,0.46,451030000,2020-05-11
+XNTK,State Street SPDR NYSE Technology ETF,Sector Equity,Technology,1.350,3.320,23.10,39.11,12.39,58.96,16.27,0.25,0.35,1450000000,2000-09-25
+CLOZ,Eldridge BBB-B CLO ETF,Taxable Bond,Securitized Bond - Focused,1.350,2.260,4.06,10.45,1.60,7.94,,7.92,0.50,588300000,2023-01-23
+SAMT,Strategas Macro Thematic Opp ETF,U.S. Equity,Large Blend,1.340,3.090,14.43,25.70,12.44,47.45,,0.69,0.66,518760000,2022-01-25
+UMAY,Innovator U.S. Equity Ultra BffrETF-May,Nontraditional Equity,Defined Outcome,1.340,2.820,4.69,11.34,2.09,11.75,6.22,,0.79,57970000,2020-04-30
+EEE,CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF,International Equity,Focused Region,1.340,3.320,21.59,36.48,16.63,41.58,-3.23,2.14,1.18,116700000,1990-03-06
+PVAL,Putnam Focused Large Cap Value ETF,U.S. Equity,Large Value,1.340,2.510,12.54,22.79,8.77,35.78,,0.98,0.55,8820000000,2021-05-25
+EWP,iShares MSCI Spain ETF,International Equity,Focused Region,1.340,2.770,17.18,29.71,5.12,43.11,18.05,2.27,0.50,1810000000,1996-03-12
+PFRL,PGIM Floating Rate Income ETF,Taxable Bond,Bank Loan,1.340,2.670,2.82,8.65,1.13,8.18,,7.82,0.72,108580000,2022-05-17
+RWLC,Rayliant Wilshire NxtGen US Lg Cp Eq ETF,International Equity,Global Large-Stock Blend,1.340,2.740,11.78,21.61,5.87,22.39,,0.60,0.32,81540000,2021-12-15
+USAI,Pacer American Energy Infrastructure ETF,Sector Equity,Energy Limited Partnership,1.340,2.880,15.67,27.37,26.24,30.26,21.99,4.09,0.75,107990000,2017-12-12
+GVAL,Cambria Global Value ETF,International Equity,Foreign Large Value,1.330,2.440,14.17,25.12,12.34,42.72,14.13,3.08,0.66,526810000,2014-03-11
+FWD,AB Disruptors ETF,International Equity,Global Large-Stock Growth,1.330,2.630,22.77,37.86,22.65,75.61,,0.11,0.65,1840000000,2023-03-21
+NJAN,Innovator Growth-100 Pwr Buff ETF Jan,Nontraditional Equity,Defined Outcome,1.330,2.650,6.80,14.36,4.30,22.45,7.59,,0.79,348700000,2019-12-31
+JMOM,JPMorgan US Momentum Factor ETF,U.S. Equity,Large Blend,1.330,2.690,14.62,25.69,12.01,34.36,14.02,0.88,0.12,1910000000,2017-11-08
+IDV,iShares International Select Div ETF,International Equity,Foreign Large Value,1.330,2.330,13.25,23.74,13.05,44.99,13.19,4.63,0.50,7940000000,2007-06-11
+FNGS,MicroSectors FANG+ ETN,Sector Equity,Technology,1.330,2.950,22.95,38.01,2.79,31.31,18.65,,0.58,447440000,2019-11-12
+GGRW,Gabelli Growth Innovators ETF,U.S. Equity,Large Growth,1.330,2.710,16.63,28.53,2.02,23.86,8.64,0.46,0.00,7490000,2021-02-16
+APRH,Innovator Premium Income 20 Bar ETF -Apr,Nontraditional Equity,Defined Outcome,1.330,3.080,2.18,7.80,3.28,10.03,,6.55,0.79,23310000,2023-03-31
+SFYF,SoFi Social 50 ETF,U.S. Equity,Large Growth,1.330,2.780,22.61,37.44,4.71,46.71,14.76,0.36,0.29,34200000,2019-05-07
+SFY,SoFi Select 500 ETF,U.S. Equity,Large Growth,1.330,2.760,15.00,26.14,6.25,38.72,14.38,1.02,0.05,555420000,2019-04-10
+PWB,Invesco Large Cap Growth ETF,U.S. Equity,Large Growth,1.330,2.750,18.25,30.95,15.23,47.11,15.69,,0.55,1560000000,2005-03-03
+IVLU,iShares Edge MSCI Intl Value Factor ETF,International Equity,Foreign Large Value,1.330,2.310,12.87,23.09,9.41,38.89,14.79,3.56,0.31,3790000000,2015-06-16
+GCAD,Gabelli Commercial Aerospace&Dfns ETF,Sector Equity,Industrials,1.320,2.670,17.23,29.41,10.09,49.09,,1.92,0.00,26580000,2023-01-03
+OEF,iShares S&P 100 ETF,U.S. Equity,Large Blend,1.320,2.670,13.76,24.25,3.74,33.28,14.67,0.98,0.20,17840000000,2000-10-23
+SHOC,Strive U.S. Semiconductor ETF,Sector Equity,Technology,1.320,3.560,31.10,50.29,39.17,139.22,,0.23,0.40,156370000,2022-10-05
+MOOD,Relative Sentiment Tactical Allc ETF,Allocation,Tactical Allocation,1.320,2.370,10.35,19.38,10.74,36.41,,0.38,0.73,107880000,2022-05-18
+UDIV,Franklin US Core Dividend Tilt Index ETF,U.S. Equity,Large Blend,1.320,2.670,13.47,23.78,8.64,36.14,14.08,1.66,0.06,105870000,2016-06-01
+BAUG,Innovator U.S. Equity Buffer ETF Aug,Nontraditional Equity,Defined Outcome,1.320,2.580,9.38,17.89,4.18,23.55,10.85,,0.79,181960000,2019-07-31
+DUSA,Davis Select US Equity ETF,U.S. Equity,Large Value,1.320,2.710,14.70,25.56,8.25,33.30,10.88,0.97,0.59,1040000000,2017-01-11
+XLG,Invesco S&P 500 Top 50 ETF,U.S. Equity,Large Blend,1.320,2.660,14.44,25.14,2.91,33.95,15.28,0.70,0.20,9470000000,2005-05-04
+SOXQ,Invesco PHLX Semiconductor ETF,Sector Equity,Technology,1.310,3.820,33.02,53.02,48.37,149.58,,0.47,0.19,929880000,2021-06-11
+MART,AllianzIM US Equity Buffer10 Mar ETF,Nontraditional Equity,Defined Outcome,1.310,2.560,8.28,16.30,5.61,22.89,,,0.74,28740000,2023-02-28
+FDT,First Trust Dev Mkts Ex-US AlphaDEX ETF,International Equity,Foreign Large Value,1.310,2.400,16.35,27.88,20.09,61.70,12.81,3.26,0.80,1090000000,2011-04-18
+USCI,United States Commodity Index,Commodities,Commodities Broad Basket,1.310,3.070,12.53,22.40,28.71,45.98,20.51,,1.05,348000000,2010-08-10
+AVDV,Avantis International Small Cap Val ETF,International Equity,Foreign Small/Mid Value,1.310,2.270,14.94,25.77,13.09,51.59,14.19,3.00,0.36,17260000000,2019-09-24
+DGT,State Street SPDR Global Dow ETF,International Equity,Global Large-Stock Value,1.310,2.410,11.95,21.46,8.88,33.30,13.97,2.81,0.50,541940000,2000-09-25
+QQQH,NEOS Nasdaq-100 Hdg Eq Inc ETF,Nontraditional Equity,Equity Hedged,1.310,2.750,11.17,20.29,2.62,18.77,7.75,9.49,0.68,342800000,2019-12-19
+AIVC,Amplify Bloomberg AI Value Chain ETF,Sector Equity,Technology,1.310,3.110,26.49,42.73,31.69,105.82,12.65,0.17,0.59,34110000,2016-03-08
+IYZ,iShares US Telecommunications ETF,Sector Equity,Communications,1.310,2.380,15.07,25.97,24.98,59.85,7.54,1.71,0.38,798200000,2000-05-22
+FLTW,Franklin FTSE Taiwan ETF,International Equity,Greater China Region,1.310,3.530,22.78,37.28,41.95,105.00,16.91,2.34,0.19,1440000000,2017-11-02
+NACP,Impact Shares NAACP Minority Empwrmt ETF,U.S. Equity,Large Blend,1.300,2.670,14.62,25.22,11.25,40.90,14.02,0.68,0.49,60520000,2018-07-12
+HEFA,iShares Currency Hedged MSCI EAFE ETF,International Equity,Foreign Large Blend,1.300,2.390,8.89,17.06,6.58,26.44,13.31,3.26,0.35,6800000000,2014-01-31
+DFIV,Dimensional International Value ETF,International Equity,Foreign Large Value,1.300,2.280,12.82,22.64,10.68,41.58,,2.73,0.27,18020000000,1999-04-16
+WUGI,AXS Esoterica NextG Economy ETF,Sector Equity,Technology,1.300,2.930,24.15,38.93,8.27,45.00,13.53,0.24,0.79,26250000,2020-03-31
+JBBB,Janus Henderson B-BBB CLO ETF,Taxable Bond,Securitized Bond - Focused,1.300,2.670,3.48,9.43,1.33,6.30,,7.93,0.47,1110000000,2022-01-11
+EPOL,iShares MSCI Poland ETF,International Equity,Focused Region,1.300,2.580,21.97,35.66,9.07,36.96,18.20,4.67,0.59,581520000,2010-05-25
+DMAR,FT Vest US Equity Deep Bffr ETF Mar,Nontraditional Equity,Defined Outcome,1.300,2.440,5.40,12.14,5.77,17.40,7.59,,0.85,394810000,2021-03-19
+QQQM,Invesco NASDAQ 100 ETF,U.S. Equity,Large Growth,1.300,2.820,16.86,28.28,8.84,41.11,15.37,0.53,0.15,68830000000,2020-10-13
+QYLG,Global X Nasdaq 100 Covered Call&Gr ETF,Nontraditional Equity,Derivative Income,1.300,2.510,12.16,21.58,8.12,33.61,11.86,7.47,0.35,130450000,2020-09-18
+EMLP,First Trust North Amer Engy InfrasETF,Sector Equity,Energy Limited Partnership,1.300,2.730,12.65,22.31,18.92,27.65,17.22,2.75,0.95,4000000000,2012-06-20
+FMAR,FT Vest US Equity Buffer ETF Mar,Nontraditional Equity,Defined Outcome,1.290,2.520,7.21,14.64,8.02,22.25,10.58,,0.85,1090000000,2021-03-19
+VIDI,Vident International Equity Strategy ETF,International Equity,Foreign Large Value,1.290,2.420,14.15,24.42,15.39,51.76,11.91,4.20,0.61,405760000,2013-10-29
+AIRR,First Trust RBA Amer Indl RenaisTM ETF,Sector Equity,Industrials,1.290,2.650,25.38,40.44,29.14,82.52,25.26,0.16,0.69,8390000000,2014-03-10
+QQQ,Invesco QQQ Trust,U.S. Equity,Large Growth,1.290,2.810,16.86,28.19,8.83,41.11,15.28,0.49,0.18,372510000000,1999-03-10
+EDIV,State Street SPDR S&P Em Mkts Div ETF,International Equity,Diversified Emerging Mkts,1.290,2.360,11.41,20.42,4.78,17.29,10.98,4.81,0.49,1140000000,2011-02-23
+DVYE,iShares Emerging Markets Dividend ETF,International Equity,Diversified Emerging Mkts,1.290,2.670,12.63,22.19,12.70,37.53,6.33,5.14,0.50,1280000000,2012-02-23
+BMAR,Innovator U.S. Equity Buffer ETF - Mar,Nontraditional Equity,Defined Outcome,1.290,2.510,8.81,16.82,5.77,24.11,11.85,,0.79,178200000,2020-02-28
+LEGR,First Trust Indxx Invtv Tnsctn&Prcs ETF,U.S. Equity,Large Value,1.290,2.620,12.25,21.64,5.53,31.59,11.34,1.92,0.65,115560000,2018-01-24
+ICSH,iShares Ultra Short Duration Bd Actv ETF,Taxable Bond,Ultrashort Bond,1.290,2.470,0.37,5.16,1.11,4.38,3.61,4.46,0.08,7160000000,2013-12-11
+FDMO,Fidelity Momentum Factor ETF,U.S. Equity,Large Growth,1.290,2.660,15.76,26.56,7.39,37.02,14.54,0.67,0.15,716390000,2016-09-12
+INEQ,Columbia Intl Equ Income ETF,International Equity,Foreign Large Value,1.290,2.360,11.13,20.06,7.38,32.99,12.77,2.48,0.45,82590000,2016-06-13
+TDIV,First Trust NASDAQ Technology Div ETF,Sector Equity,Technology,1.290,2.950,17.47,28.96,11.93,49.17,16.43,1.50,0.50,3540000000,2012-08-13
+MGC,Vanguard Mega Cap ETF,U.S. Equity,Large Blend,1.290,2.580,13.41,23.17,4.91,32.51,13.67,1.02,0.05,9360000000,2007-12-17
+SPXV,ProShares S&P 500 ex-Health Care,U.S. Equity,Large Blend,1.290,2.640,13.94,23.90,6.67,33.88,13.95,1.05,0.09,34110000,2015-09-22
+ATFV,Alger 35 ETF,U.S. Equity,Large Growth,1.280,2.640,23.52,37.47,4.59,59.61,,0.23,0.55,114970000,2021-05-04
+VYMI,Vanguard Intl Hi Div Yld Idx ETF,International Equity,Foreign Large Value,1.280,2.230,11.82,20.99,10.75,35.99,13.17,3.64,0.07,18790000000,2016-02-25
+HAPI,Harbor Human Capital Factor US LrgCapETF,U.S. Equity,Large Blend,1.280,2.360,12.78,22.22,5.12,27.65,,0.90,0.35,432660000,2022-10-12
+FLQL,Franklin US Large Cap Mltfctr Idx ETF,U.S. Equity,Large Blend,1.280,2.430,13.31,22.96,7.96,33.83,14.22,1.16,0.15,1650000000,2017-04-26
+HEEM,iShares Currency Hedged MSCI Em Mkts ETF,International Equity,Diversified Emerging Mkts,1.280,2.530,13.12,22.78,18.18,52.18,8.40,2.12,0.72,219320000,2014-09-23
+DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,International Equity,Foreign Large Blend,1.280,2.380,8.94,16.93,6.63,26.42,13.21,5.49,0.35,8180000000,2011-06-09
+UIVM,VictoryShares International Val MomtETF,International Equity,Foreign Large Value,1.280,2.250,13.20,22.86,11.64,39.16,12.31,3.42,0.35,301980000,2017-10-24
+NJUL,Innovator Nasdaq-100 Power Bfr ETF Jul,Nontraditional Equity,Defined Outcome,1.280,2.730,8.37,16.11,4.57,25.67,10.61,,0.79,207050000,2020-06-30
+GLTR,abrdn Physical PrecMtlBsk Shrs ETF,Commodities,Commodities Focused,1.280,2.360,19.91,32.24,4.84,63.18,17.18,,0.60,2910000000,2010-10-22
+SPYG,State Street SPDR Port S&P 500 Gr ETF,U.S. Equity,Large Growth,1.280,2.600,16.21,26.98,5.47,37.83,14.20,0.58,0.04,41630000000,2000-09-25
+QQMG,Invesco ESG NASDAQ 100 ETF,U.S. Equity,Large Growth,1.280,2.770,17.45,28.73,8.38,42.66,,0.44,0.20,154710000,2021-10-27
+EFAS,Global X MSCI SuperDividend EAFE ETF,International Equity,Foreign Large Value,1.280,2.350,13.19,22.82,14.98,38.95,13.62,4.60,0.55,39370000,2016-11-10
+PAUG,Innovator U.S. Equity Power BufferETFAug,Nontraditional Equity,Defined Outcome,1.280,2.570,7.25,14.54,3.35,18.46,8.92,,0.79,852850000,2019-07-31
+COLO,Global X MSCI Colombia ETF,International Equity,Focused Region,1.280,2.640,21.35,34.25,8.28,53.21,14.72,6.75,0.62,124570000,2009-02-05
+FBCG,Fidelity Blue Chip Growth ETF,U.S. Equity,Large Growth,1.280,2.560,19.85,32.04,6.58,45.14,13.59,0.05,0.57,5220000000,2020-06-02
+IWL,iShares Russell Top 200 ETF,U.S. Equity,Large Blend,1.280,2.530,13.37,22.96,4.66,31.82,13.68,0.96,0.15,1920000000,2009-09-22
+GLOF,iShares Global Equity Factor ETF,International Equity,Global Large-Stock Blend,1.280,2.450,12.31,21.51,8.09,33.09,11.21,1.72,0.20,166440000,2015-04-28
+EWT,iShares MSCI Taiwan ETF,International Equity,Greater China Region,1.280,3.610,22.19,35.58,41.48,98.02,15.51,1.40,0.59,7180000000,2000-06-20
+SPBC,Simplify US Equity PLUS Bitcoin Stgy ETF,Miscellaneous,Digital Assets,1.280,2.700,16.66,27.49,4.16,28.36,,0.96,0.54,40570000,2021-05-24
+VOOG,Vanguard S&P 500 Growth ETF,U.S. Equity,Large Growth,1.270,2.590,16.25,26.93,5.45,38.12,14.14,0.54,0.07,20820000000,2010-09-07
+QTOC,Innovator Growth Accelertd Pls ETF Oct,Nontraditional Equity,Defined Outcome,1.270,2.930,10.66,19.20,7.01,30.81,,,0.79,13900000,2021-09-30
+FFEB,FT Vest US Equity Buffer ETF Feb,Nontraditional Equity,Defined Outcome,1.270,2.440,8.57,16.28,5.26,22.61,10.87,,0.85,1210000000,2020-02-21
+IVW,iShares S&P 500 Growth ETF,U.S. Equity,Large Growth,1.270,2.580,16.21,26.81,5.41,37.73,14.05,0.43,0.18,60920000000,2000-05-22
+DIEM,Franklin Emerging Mkt Core Div TltIdxETF,International Equity,Diversified Emerging Mkts,1.270,2.430,13.89,23.65,17.94,50.58,9.91,3.00,0.19,44350000,2016-06-01
+CGUS,Capital Group Core Equity ETF,U.S. Equity,Large Blend,1.270,2.520,12.83,22.08,6.04,30.53,,1.00,0.33,8850000000,2022-02-22
+BKLC,BNY Mellon US Large Cap Core Equity ETF,U.S. Equity,Large Blend,1.270,2.470,13.33,22.73,5.37,31.35,13.35,1.11,0.00,4420000000,2020-04-07
+VSLU,Applied Finance Valuation LgCp ETF,U.S. Equity,Large Blend,1.260,2.350,12.38,21.39,2.27,30.85,13.30,0.49,0.49,440030000,2021-04-29
+HSCZ,iShares Currency Hdgd MSCI EAFE SmCp ETF,International Equity,Foreign Small/Mid Blend,1.260,2.200,9.72,17.80,7.11,32.48,10.76,3.18,0.43,196460000,2015-06-29
+GCC,WisdomTree Enhanced Commodity Stgy Fd,Commodities,Commodities Broad Basket,1.260,2.350,9.85,18.02,19.81,43.31,12.75,5.88,0.57,263900000,2020-12-21
+SEIM,SEI Enhanced US Large Cap Momt Fac ETF,U.S. Equity,Large Growth,1.260,2.510,16.41,26.91,10.46,40.91,,0.57,0.15,1170000000,2022-05-16
+FITE,Stt Strt SPDR S&PKenshoFutSecETF,Sector Equity,Technology,1.260,2.600,18.08,29.22,11.19,48.56,13.91,0.20,0.45,106960000,2017-12-18
+EWI,iShares MSCI Italy ETF,International Equity,Focused Region,1.260,2.310,16.22,26.62,6.31,34.66,16.91,2.86,0.50,627110000,1996-03-12
+FRDM,Freedom 100 Emerging Markets ETF,International Equity,Diversified Emerging Mkts,1.260,2.320,20.29,32.25,23.47,78.65,16.24,2.09,0.49,2540000000,2019-05-22
+IUSG,iShares Core S&P US Growth ETF,U.S. Equity,Large Growth,1.260,2.530,16.06,26.36,5.83,37.69,13.78,0.58,0.04,25970000000,2000-07-24
+FFLC,Fidelity Fundamental Large Cap Core ETF,U.S. Equity,Large Blend,1.260,2.550,14.15,23.71,7.60,34.50,16.21,1.14,0.38,964590000,2020-06-02
+AIA,iShares Asia 50 ETF,International Equity,Pacific/Asia ex-Japan Stk,1.260,2.470,20.11,31.97,27.56,82.55,8.84,1.46,0.50,3340000000,2007-11-13
+FNGO,MicroSectors FANG+ 2X Leveraged ETN,Miscellaneous,Leveraged Equity,1.260,2.810,47.08,69.09,1.81,56.10,23.37,,0.95,436650000,2018-08-01
+PMAR,Innovator U.S. Equity Power BffrETF-Mar,Nontraditional Equity,Defined Outcome,1.250,2.440,6.24,13.00,4.22,17.98,9.22,,0.79,690350000,2020-02-28
+PSFJ,Pacer Swan SOS Flex (July) ETF,Nontraditional Equity,Defined Outcome,1.250,2.570,8.29,15.74,3.89,21.40,,,0.60,33510000,2021-06-30
+ROAM,Hartford Multifactor Emerging Mkts ETF,International Equity,Diversified Emerging Mkts,1.250,2.430,13.81,23.26,17.44,48.42,11.60,3.07,0.44,87170000,2015-02-25
+FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Miscellaneous,Leveraged Equity,1.250,2.820,46.96,68.79,1.32,54.97,,15.88,0.97,96690000,2021-09-29
+PWRD,TCW Transform Systems ETF,U.S. Equity,Large Blend,1.250,2.570,20.46,32.30,17.33,56.78,,0.17,0.75,1200000000,2022-02-02
+NXTG,First Trust IndXX NextG ETF,Sector Equity,Technology,1.250,3.000,17.48,28.32,26.10,58.92,15.01,1.64,0.70,414200000,2011-02-17
+BUYW,Main BuyWrite ETF,Nontraditional Equity,Derivative Income,1.250,2.510,3.26,9.04,2.52,12.52,,6.02,0.99,1100000000,2015-12-29
+TSPA,T. Rowe Price US Equity Research ETF,U.S. Equity,Large Blend,1.250,2.460,13.33,22.51,6.22,30.97,,0.65,0.34,2090000000,2021-06-08
+UMAR,Innovator U.S. Equity Ultra BffrETF-Mar,Nontraditional Equity,Defined Outcome,1.250,2.320,6.05,12.73,3.89,16.55,7.56,,0.79,137520000,2020-02-28
+FJUL,FT Vest US Equity Buffer ETF Jul,Nontraditional Equity,Defined Outcome,1.250,2.530,8.99,16.64,3.87,22.66,11.12,,0.85,1090000000,2020-07-17
+FAPR,FT Vest US Equity Buffer ETF Apr,Nontraditional Equity,Defined Outcome,1.250,2.420,6.55,13.34,2.66,14.37,8.67,,0.85,982140000,2021-04-16
+QPX,AdvisorShares Q Dynamic Growth ETF,U.S. Equity,Large Blend,1.250,2.280,13.22,22.31,3.49,32.54,11.39,,1.74,32000000,2020-12-28
+IYW,iShares US Technology ETF,Sector Equity,Technology,1.250,2.850,21.18,33.18,9.27,52.93,18.95,0.15,0.38,17690000000,2000-05-15
+QGRW,WisdomTree U.S. Quality Growth ETF,U.S. Equity,Large Growth,1.250,2.530,18.10,28.92,4.86,36.98,,0.09,0.28,2090000000,2022-12-13
+AIQ,Global X Artfcl Intlgc&Tech ETF,Sector Equity,Technology,1.250,2.730,21.11,33.08,9.87,51.86,14.04,0.20,0.68,7220000000,2018-05-11
+FTXL,First Trust Nasdaq Semiconductor ETF,Sector Equity,Technology,1.250,3.870,35.36,53.34,64.85,189.88,28.20,0.23,0.60,1480000000,2016-09-20
+PSMJ,Pacer Swan SOS Moderate (July) ETF,Nontraditional Equity,Defined Outcome,1.250,2.610,7.41,14.47,3.23,19.87,,,0.60,84370000,2021-06-30
+FDG,American Century Foc Dynmc Gr ETF,U.S. Equity,Large Growth,1.240,2.360,19.83,31.16,3.13,39.63,10.44,,0.45,329460000,2020-03-31
+QJUN,FT Vest Nasdaq-100 Buffer ETF - Jun,Nontraditional Equity,Defined Outcome,1.240,2.470,9.63,17.42,4.65,24.79,,,0.90,574080000,2021-06-18
+FDTS,First Trust DevMkts exUS SC AlphaDEXETF,International Equity,Foreign Small/Mid Value,1.240,2.350,16.09,26.15,20.97,65.67,11.96,2.72,0.80,12870000,2012-02-15
+PSI,Invesco Semiconductors ETF,Sector Equity,Technology,1.240,3.000,36.05,53.63,69.52,189.38,27.43,0.08,0.56,1270000000,2005-06-23
+CSD,Invesco S&P Spin-Off ETF,U.S. Equity,Mid-Cap Blend,1.240,2.330,20.76,32.38,28.06,74.05,15.16,0.14,0.65,105300000,2006-12-15
+ONEQ,Fidelity Nasdaq Composite ETF,U.S. Equity,Large Growth,1.240,2.580,17.41,27.79,7.51,43.82,13.36,0.83,0.21,8600000000,2003-09-25
+SOXX,iShares Semiconductor ETF,Sector Equity,Technology,1.240,3.570,34.05,50.81,53.32,152.59,27.85,0.51,0.34,20590000000,2001-07-10
+GSPY,Gotham Enhanced 500 ETF,U.S. Equity,Large Blend,1.240,2.350,12.67,21.37,5.74,31.74,12.91,2.68,0.50,625140000,2020-12-28
+FFLG,Fidelity Fundamental Large Cap Gr ETF,U.S. Equity,Large Growth,1.240,2.520,19.39,30.36,7.56,44.23,10.35,0.16,0.38,481460000,2021-02-02
+IXG,iShares Global Financials ETF,Sector Equity,Financial,1.240,2.430,13.57,22.55,0.84,20.78,12.57,2.16,0.41,518990000,2001-11-12
+SPXN,ProShares S&P 500 ex-Financials,U.S. Equity,Large Blend,1.230,2.430,13.46,22.42,7.02,35.28,13.70,1.03,0.09,66700000,2015-09-22
+IWY,iShares Russell Top 200 Growth ETF,U.S. Equity,Large Growth,1.230,2.410,16.29,26.15,0.81,30.75,14.82,0.39,0.20,14740000000,2009-09-22
+CEFS,Saba Closed-End Funds ETF,Alternative,Event Driven,1.230,2.590,12.22,20.75,8.92,26.13,13.33,6.72,2.61,371350000,2017-03-20
+SNPG,Xtrackers S&P 500 Growth Scrd&Scrn ETF,U.S. Equity,Large Growth,1.230,2.270,14.14,23.26,0.22,26.95,,0.56,0.15,12100000,2022-11-08
+FNDE,Schwab Fundamental Emerging MarketsEqETF,International Equity,Diversified Emerging Mkts,1.230,2.250,12.34,20.94,12.87,41.03,10.45,4.04,0.39,8710000000,2013-08-15
+FYLD,Cambria Foreign Shareholder Yield ETF,International Equity,Foreign Small/Mid Value,1.230,2.180,12.42,21.04,19.66,50.25,12.68,3.79,0.59,607830000,2013-12-02
+RECS,Columbia Research Enhanced Core ETF,U.S. Equity,Large Blend,1.230,2.340,12.43,20.95,3.18,29.84,13.84,0.83,0.15,4890000000,2019-09-25
+USMC,Principal US Mega-Cap ETF,U.S. Equity,Large Blend,1.230,2.380,12.93,21.61,3.08,25.18,14.39,0.84,0.12,2890000000,2017-10-11
+BFEB,Innovator U.S. Equity Buffer ETF - Feb,Nontraditional Equity,Defined Outcome,1.230,2.410,9.08,16.54,5.39,24.22,11.42,,0.79,218360000,2020-01-31
+UAUG,Innovator U.S. Equity Ultra BufferETFAug,Nontraditional Equity,Defined Outcome,1.230,2.450,7.73,14.75,3.32,19.43,7.74,,0.79,161380000,2019-07-31
+BJAN,Innovator US Equity Buff ETF Jan,Nontraditional Equity,Defined Outcome,1.230,2.420,9.55,17.14,4.14,23.77,10.40,,0.79,356820000,2018-12-31
+AFLG,First Trust Active Factor Large Cap ETF,U.S. Equity,Large Blend,1.230,2.390,13.03,21.72,8.45,28.40,12.47,0.80,0.55,524220000,2019-12-03
+OCTW,AllianzIM US Equity Buffer20 Oct ETF,Nontraditional Equity,Defined Outcome,1.230,2.560,4.78,10.90,3.03,14.54,8.59,,0.74,542720000,2020-09-30
+FTHI,First Trust BuyWrite Income ETF,Nontraditional Equity,Derivative Income,1.230,2.160,7.91,14.97,3.34,20.19,10.82,8.99,0.76,2040000000,2014-01-06
+DBEM,Xtrackers MSCI Em Mkts Hdg Eq ETF,International Equity,Diversified Emerging Mkts,1.230,2.460,13.13,21.93,18.97,52.28,8.02,1.78,0.66,84020000,2011-06-09
+TCHP,T. Rowe Price Blue Chip Growth ETF,U.S. Equity,Large Growth,1.230,2.420,16.75,26.57,0.00,28.37,10.26,,0.57,1830000000,2020-08-04
+BJUL,Innovator U.S. Equity Buffer ETF July,Nontraditional Equity,Defined Outcome,1.220,2.430,9.44,16.94,4.17,23.15,11.17,,0.79,254410000,2018-08-28
+QTJL,Innovator Growth Accelerated Pls ETF Jul,Nontraditional Equity,Defined Outcome,1.220,2.650,11.72,19.97,5.78,33.77,,,0.79,25020000,2021-06-30
+SCHG,Schwab US Large-Cap Growth ETF,U.S. Equity,Large Growth,1.220,2.430,16.65,26.39,1.01,30.00,14.05,0.43,0.04,48420000000,2009-12-11
+JULT,AllianzIM US Equity Buffer10 Jul ETF,Nontraditional Equity,Defined Outcome,1.220,2.440,9.01,16.37,3.95,22.53,11.00,,0.74,76920000,2020-06-30
+JANT,AllianzIM US Equity Buffer10 Jan ETF,Nontraditional Equity,Defined Outcome,1.220,2.450,8.99,16.35,4.03,22.58,9.93,,0.74,64200000,2020-12-31
+IQDF,FlexShares Intl Qual Div ETF,International Equity,Foreign Large Value,1.220,2.120,11.97,20.28,10.67,35.77,10.59,3.13,0.47,1020000000,2013-04-12
+GSUS,Goldman Sachs MarketBeta US Equity ETF,U.S. Equity,Large Blend,1.220,2.410,13.35,22.05,5.27,31.07,12.77,1.14,0.07,2740000000,2020-05-12
+DFEB,FT Vest US Equity Deep Bffr ETF Feb,Nontraditional Equity,Defined Outcome,1.220,2.350,6.80,13.48,4.00,18.03,7.97,,0.85,433030000,2020-02-21
+FEBT,AllianzIM US Equity Buffer10 Feb ETF,Nontraditional Equity,Defined Outcome,1.220,2.390,8.92,16.24,5.15,23.61,,,0.74,96450000,2023-02-01
+IQM,Franklin Intelligent Machines ETF,Sector Equity,Technology,1.220,2.500,24.39,36.63,23.21,77.80,18.75,,0.50,75000000,2020-02-25
+STRV,Strive 500 ETF,U.S. Equity,Large Blend,1.220,2.420,13.35,22.00,5.44,31.23,,1.19,0.05,951160000,2022-09-14
+SPHQ,Invesco S&P 500 Quality ETF,U.S. Equity,Large Blend,1.220,2.110,12.23,20.52,8.44,24.06,13.73,1.19,0.15,15730000000,2005-12-06
+AMUB,UBS ETRACS Alerian MLP ETN Series B,Sector Equity,Energy Limited Partnership,1.220,2.400,15.26,24.52,21.53,29.12,23.01,4.32,0.80,36890000,2015-10-09
+OALC,OneAscent Large Cap Core ETF,U.S. Equity,Large Blend,1.220,2.530,13.36,22.03,8.80,35.50,,0.63,0.49,199760000,2021-11-15
+VV,Vanguard Large-Cap ETF,U.S. Equity,Large Blend,1.220,2.390,13.32,21.93,5.25,30.87,12.63,1.13,0.03,64190000000,2004-01-27
+RFFC,ALPS Active Equity Opportunity ETF,U.S. Equity,Large Blend,1.220,2.180,12.71,21.12,7.75,32.64,12.09,0.81,0.48,26560000,2016-06-06
+PSMO,Pacer Swan SOS Moderate (October) ETF,Nontraditional Equity,Defined Outcome,1.220,2.610,6.05,12.47,3.44,17.70,,,0.60,94360000,2021-09-30
+IVV,iShares Core S&P 500 ETF,U.S. Equity,Large Blend,1.210,2.370,13.14,21.67,5.70,31.01,13.10,1.23,0.03,720540000000,2000-05-15
+FTLS,First Trust Long/Short Equity ETF,Nontraditional Equity,Long-Short Equity,1.210,2.270,7.38,14.17,4.04,17.29,10.65,0.96,1.38,2160000000,2014-09-08
+XMMO,Invesco S&P MidCap Momentum ETF,U.S. Equity,Mid-Cap Blend,1.210,2.410,19.12,29.48,15.64,39.64,14.23,0.71,0.35,5840000000,2005-03-03
+SPYM,State Street SPDR Port S&P 500 ETF,U.S. Equity,Large Blend,1.210,2.370,13.12,21.64,5.67,31.18,13.09,1.16,0.02,117660000000,2005-11-08
+IQDY,FlexShares Intl Qual Div Dynamic ETF,International Equity,Foreign Large Value,1.210,2.220,13.30,21.92,12.01,41.79,11.51,3.20,0.47,92880000,2013-04-12
+MARW,AllianzIM US Equity Buffer20 Mar ETF,Nontraditional Equity,Defined Outcome,1.210,2.330,5.15,11.31,3.37,15.00,,,0.74,79280000,2023-02-28
+VOO,Vanguard S&P 500 ETF,U.S. Equity,Large Blend,1.210,2.370,13.15,21.65,5.67,31.15,13.08,1.19,0.03,1421130000000,2010-09-07
+PJUL,Innovator U.S. Equity Power BffrETF-Jul,Nontraditional Equity,Defined Outcome,1.210,2.580,7.48,14.30,3.30,19.75,10.23,,0.79,970360000,2018-08-07
+SNPE,Xtrackers S&P 500 Scrd&Scrn ETF,U.S. Equity,Large Blend,1.210,2.310,13.11,21.59,5.48,33.83,13.81,1.05,0.10,2290000000,2019-06-25
+EFIV,State Street SPDR S&P 500 ESG ETF,U.S. Equity,Large Blend,1.210,2.320,13.10,21.57,5.53,33.78,13.81,1.08,0.10,913680000,2020-07-27
+EFV,iShares MSCI EAFE Value ETF,International Equity,Foreign Large Value,1.210,2.060,12.59,20.95,8.65,33.02,13.16,4.01,0.31,28640000000,2005-08-01
+MLPR,ETRACS Qrtly Py 1.5X Lvgd Aln MLP ETN,Miscellaneous,Leveraged Equity,1.210,2.380,22.51,33.88,31.88,42.17,32.55,9.14,0.00,10590000,2020-06-02
+XBJL,Innovator US Eq Acclrtd 9 Bffr ETF Jul,Nontraditional Equity,Defined Outcome,1.210,2.540,5.94,12.31,3.31,16.87,,,0.79,76950000,2021-06-30
+FTSL,First Trust Senior Loan ETF,Taxable Bond,Bank Loan,1.210,2.020,2.15,7.41,0.32,5.42,5.08,6.60,0.70,2160000000,2013-05-01
+PBUS,Invesco MSCI USA ETF,U.S. Equity,Large Blend,1.210,2.370,13.38,21.89,5.53,30.90,12.63,1.14,0.04,9380000000,2017-09-22
+SPY,State Street SPDR S&P 500 ETF,U.S. Equity,Large Blend,1.210,2.360,13.12,21.55,5.68,31.08,13.02,1.14,0.09,651590000000,1993-01-22
+FHYS,Federated Hermes Short Duration HY ETF,Taxable Bond,High Yield Bond,1.210,2.520,2.39,7.73,1.20,7.48,,5.90,0.50,49180000,2021-12-16
+BBUS,JPMorgan BetaBuilders US Equity ETF,U.S. Equity,Large Blend,1.210,2.350,13.34,21.80,5.33,30.73,12.56,1.14,0.02,6980000000,2019-03-12
+PXF,Invesco RAFI Developed Markets ex-US ETF,International Equity,Foreign Large Value,1.210,2.090,13.67,22.30,14.01,44.08,13.59,3.48,0.43,2590000000,2007-06-25
+USEP,Innovator US Equity Ultra Buffer ETF-Sep,Nontraditional Equity,Defined Outcome,1.210,2.350,6.78,13.34,3.00,17.92,7.76,,0.79,148980000,2019-08-30
+EPS,WisdomTree U.S. LargeCap Fund,U.S. Equity,Large Value,1.210,2.340,12.66,20.90,6.34,31.09,12.51,1.32,0.08,1340000000,2007-02-23
+BSEP,Innovator US Equity Buffer ETF-Sep,Nontraditional Equity,Defined Outcome,1.210,2.390,9.24,16.50,4.22,23.43,10.48,,0.79,197130000,2019-08-30
+JHID,JHancock International High Dividend ETF,International Equity,Foreign Large Value,1.210,2.100,12.86,21.22,11.76,38.13,,3.11,0.46,11130000,2022-12-20
+XPND,First Trust Expanded Technology ETF,Sector Equity,Technology,1.200,2.430,17.72,27.42,3.43,29.67,,0.12,0.65,49270000,2021-06-14
+USPX,Franklin US Equity Index ETF,U.S. Equity,Large Blend,1.200,2.360,13.37,21.80,5.41,30.75,12.07,1.20,0.03,1530000000,2016-06-01
+XTJL,Innovator US Equity Acclrtd Pls ETF Jul,Nontraditional Equity,Defined Outcome,1.200,2.560,8.41,15.42,4.16,22.63,,,0.79,23960000,2021-06-30
+BUFB,Innovator Laddered Allocation Buffer ETF,Nontraditional Equity,Defined Outcome,1.200,2.360,8.66,15.73,4.48,22.53,,,0.89,242470000,2022-02-08
+ILCB,iShares Morningstar U.S. Equity ETF,U.S. Equity,Large Blend,1.200,2.350,13.43,21.85,5.55,30.84,12.50,1.13,0.03,1110000000,2004-06-28
+USXF,iShares ESG Advanced MSCI USA ETF,U.S. Equity,Large Growth,1.200,2.430,15.85,24.98,9.58,35.88,13.73,1.01,0.10,1150000000,2020-06-16
+LALT,First Trust Multi-Strat Alt ETF,Alternative,Multistrategy,1.200,2.580,4.59,10.64,11.01,23.52,,3.74,1.18,47390000,2023-01-31
+EMMF,WisdomTree Emerging Markets Mltfctr,International Equity,Diversified Emerging Mkts,1.200,2.250,12.14,20.23,14.99,37.56,9.13,2.31,0.48,151220000,2018-08-10
+LRGF,iShares U.S. Equity Factor ETF,U.S. Equity,Large Blend,1.200,2.340,13.17,21.48,3.91,26.28,12.90,1.23,0.08,2930000000,2015-04-28
+FGD,First Trust Dow Jones Global Sel Div ETF,International Equity,Foreign Large Value,1.200,2.030,12.85,21.14,11.30,42.39,11.71,5.37,0.55,1260000000,2007-11-21
+MGK,Vanguard Mega Cap Growth ETF,U.S. Equity,Large Growth,1.200,2.400,17.41,26.94,1.84,33.65,14.17,0.39,0.05,27850000000,2007-12-17
+IETC,iShares U.S. Tech Independence Fcs ETF,Sector Equity,Technology,1.200,2.330,19.85,30.08,0.37,30.14,15.20,0.45,0.18,684620000,2018-03-21
+VOTE,TCW Transform 500 ETF,U.S. Equity,Large Blend,1.200,2.320,13.47,21.87,5.64,30.87,,1.04,0.05,934950000,2021-06-22
+JUST,Goldman Sachs JUST US Large Cap Eq ETF,U.S. Equity,Large Blend,1.200,2.350,13.19,21.51,6.74,32.51,12.57,1.08,0.20,492860000,2018-06-07
+SCHX,Schwab US Large-Cap ETF,U.S. Equity,Large Blend,1.200,2.330,13.32,21.66,5.43,30.50,12.43,1.17,0.03,61440000000,2009-11-03
+GGLL,Direxion Daily GOOGL Bull 2X Shares,Miscellaneous,Leveraged Equity,1.200,2.720,64.99,87.59,42.17,389.28,,5.62,0.96,724800000,2022-09-06
+QVML,Invesco S&P 500 QVM Multi-factor ETF,U.S. Equity,Large Blend,1.200,2.350,12.91,21.14,6.05,30.28,,1.15,0.11,1380000000,2021-06-30
+IXN,iShares Global Tech ETF,Sector Equity,Technology,1.200,2.650,20.86,31.43,14.52,58.12,18.30,0.34,0.39,6260000000,2001-11-12
+POCT,Innovator U.S. Equity Power Buf ETF Oct,Nontraditional Equity,Defined Outcome,1.200,2.550,5.97,12.26,3.32,17.17,9.54,,0.79,1030000000,2018-09-28
+PSCQ,Pacer Swan SOS Conservative (Oct) ETF,Nontraditional Equity,Defined Outcome,1.200,2.420,6.24,12.58,3.34,17.90,,,0.60,45550000,2021-09-30
+EMDM,First Trust Bloomberg Emr Mkt Dem ETF,International Equity,Diversified Emerging Mkts,1.200,2.310,19.52,29.63,25.46,83.01,,3.21,0.75,20890000,2023-03-02
+AESR,Anfield US Equity Sector Rotation ETF,U.S. Equity,Large Blend,1.200,2.320,15.59,24.53,12.24,40.16,13.84,23.29,1.16,142020000,2019-12-16
+NAPR,Innovator Nasdaq-100 Pwr Bffr ETF Apr,Nontraditional Equity,Defined Outcome,1.200,2.030,7.37,14.02,8.05,21.08,9.71,,0.79,177510000,2020-03-31
+PXH,Invesco RAFI Emerging Markets ETF,International Equity,Diversified Emerging Mkts,1.190,2.160,12.86,21.02,11.67,40.03,9.90,3.81,0.47,1820000000,2007-09-27
+RODM,Hartford Multifactor Dev Mkts (exUS) ETF,International Equity,Foreign Large Value,1.190,2.110,11.62,19.45,11.05,31.13,10.50,2.96,0.29,1410000000,2015-02-25
+SPXE,ProShares S&P 500 ex-Energy,U.S. Equity,Large Blend,1.190,2.300,13.59,21.89,4.88,30.22,12.67,1.07,0.09,71660000,2015-09-22
+VONG,Vanguard Russell 1000 Growth ETF,U.S. Equity,Large Growth,1.190,2.300,16.31,25.32,0.96,30.86,13.72,0.51,0.06,44950000000,2010-09-20
+QDPL,Pacer Metaurus US Lg Cp Dvd Mltp 400 ETF,U.S. Equity,Large Blend,1.190,2.340,11.92,19.74,5.14,28.98,,5.13,0.60,1410000000,2021-07-12
+IWF,iShares Russell 1000 Growth ETF,U.S. Equity,Large Growth,1.190,2.300,16.25,25.22,0.89,30.56,13.62,0.40,0.18,111770000000,2000-05-22
+FNDF,Schwab Fundamental International Eq ETF,International Equity,Foreign Large Value,1.190,2.080,13.30,21.55,14.71,44.29,13.55,3.25,0.25,21240000000,2013-08-15
+QDEF,FlexShares Quality Dividend Defensv ETF,U.S. Equity,Large Value,1.190,2.040,11.14,18.72,5.51,26.03,12.42,1.75,0.39,490880000,2012-12-14
+PSCX,Pacer Swan SOS Conservative (Jan) ETF,Nontraditional Equity,Defined Outcome,1.190,2.360,6.49,12.84,3.11,17.82,8.16,,0.60,44180000,2020-12-22
+GFEB,FT Vest U.S. Eq Mod Buffr ETF - Feb,Nontraditional Equity,Defined Outcome,1.190,2.290,6.64,13.04,3.96,17.84,,,0.85,351120000,2023-02-17
+HIDV,AB US High Dividend ETF,U.S. Equity,Large Value,1.190,2.250,13.09,21.17,6.44,30.69,,2.59,0.35,149200000,2023-03-21
+IGHG,ProShares Investment GradeIntr Rt Hdgd,Taxable Bond,Nontraditional Bond,1.190,2.440,3.11,8.56,1.23,8.39,5.20,5.19,0.30,273330000,2013-11-05
+GAPR,FT Vest U.S. Eq Mod Buf ETF - Apr,Nontraditional Equity,Defined Outcome,1.180,2.290,5.08,11.01,2.22,11.69,,,0.85,228520000,2023-04-21
+SCHK,Schwab 1000 ETF,U.S. Equity,Large Blend,1.180,2.290,13.46,21.59,5.75,30.96,12.25,1.17,0.03,4740000000,2017-10-11
+QLD,ProShares Ultra QQQ,Miscellaneous,Leveraged Equity,1.180,2.600,34.74,48.56,15.14,83.35,20.07,0.19,0.95,8350000000,2006-06-19
+FDD,First Trust STOXX European Sel Div ETF,International Equity,Europe Stock,1.180,2.210,15.21,23.85,9.07,38.53,11.90,3.87,0.56,802490000,2007-08-27
+GUSA,Goldman Sachs MarketBeta US 1000 Eq ETF,U.S. Equity,Large Blend,1.180,2.260,13.42,21.51,5.54,30.68,,1.11,0.10,2040000000,2022-04-05
+DFUS,Dimensional US Equity Market ETF,U.S. Equity,Large Blend,1.180,2.280,13.55,21.67,5.78,31.81,,0.97,0.09,17960000000,2001-09-25
+GDMA,Gadsden Dynamic Multi-Asset ETF,Allocation,Global Moderately Conservative Allocation,1.180,2.290,9.04,16.06,9.10,34.84,8.01,2.64,0.75,191700000,2018-11-14
+NUGO,Nuveen Growth Opportunities ETF,U.S. Equity,Large Growth,1.180,2.300,17.39,26.49,3.55,32.64,,,0.56,2490000000,2021-09-27
+VUG,Vanguard Growth ETF,U.S. Equity,Large Growth,1.180,2.370,17.17,26.22,2.40,32.49,13.29,0.46,0.03,317920000000,2004-01-26
+PSEP,Innovator US Equity Power Buffer ETF-Sep,Nontraditional Equity,Defined Outcome,1.180,2.360,6.92,13.32,3.23,17.83,9.15,,0.79,828530000,2019-08-30
+SPYX,SttStrt SPDR S&P500FsslFulRsrvFreeETF,U.S. Equity,Large Blend,1.180,2.260,13.52,21.61,4.85,29.80,12.58,0.98,0.20,2340000000,2015-11-30
+DJUL,FT Vest US Equity Deep Bffr ETF Jul,Nontraditional Equity,Defined Outcome,1.180,2.300,7.81,14.44,3.32,20.67,8.68,,0.85,380140000,2020-07-17
+MMTM,State Street SPDR S&P 1500MomtTiltETF,U.S. Equity,Large Blend,1.180,2.270,14.54,22.87,6.82,30.65,13.33,0.89,0.12,151430000,2012-10-24
+VONE,Vanguard Russell 1000 ETF,U.S. Equity,Large Blend,1.180,2.270,13.34,21.36,5.38,30.26,12.22,1.14,0.06,10180000000,2010-09-20
+FTEC,Fidelity MSCI Information Tech ETF,Sector Equity,Technology,1.180,2.570,20.34,30.19,9.75,51.41,18.01,0.46,0.08,15050000000,2013-10-21
+EGUS,iShares ESG Aware MSCI USA Growth ETF,U.S. Equity,Large Growth,1.180,2.330,17.33,26.35,2.76,34.70,,0.24,0.18,21030000,2023-01-31
+IWB,iShares Russell 1000 ETF,U.S. Equity,Large Blend,1.180,2.260,13.34,21.33,5.44,30.30,12.16,1.06,0.15,42780000000,2000-05-15
+JULW,AllianzIM US Equity Buffer20 Jul ETF,Nontraditional Equity,Defined Outcome,1.180,2.350,6.02,12.18,2.81,17.23,8.76,,0.74,295190000,2020-06-30
+HYHG,ProShares High YieldInterest Rate Hdgd,Taxable Bond,Nontraditional Bond,1.180,1.940,4.37,10.10,2.38,9.93,6.87,6.95,0.50,164320000,2013-05-21
+THRO,iShares U.S. Thematic Rotation ActiveETF,U.S. Equity,Large Blend,1.180,2.360,14.57,22.84,5.52,27.45,,0.19,0.57,7350000000,2021-12-14
+XJUN,FT Vest US Eq Enh&Mod Bffr ETF June,Nontraditional Equity,Defined Outcome,1.180,2.490,4.69,10.52,2.49,14.50,,,0.85,175240000,2021-07-12
+VNLA,Janus Henderson Short Duration Inc ETF,Taxable Bond,Ultrashort Bond,1.180,1.950,0.80,5.68,1.01,4.97,3.75,5.26,0.23,3120000000,2016-11-16
+WRND,NYLI Global Equity R&D Leaders ETF,International Equity,Global Large-Stock Growth,1.180,2.340,14.57,22.89,10.45,40.82,,1.20,0.18,8840000,2022-02-08
+SPGM,State Street SPDR Ptf MSCIGlbStkMktETF,International Equity,Global Large-Stock Blend,1.180,2.150,12.52,20.29,7.89,34.77,11.09,1.93,0.09,1420000000,2012-02-27
+DISV,Dimensional International Sm Cp Val ETF,International Equity,Foreign Small/Mid Value,1.170,1.960,14.26,22.46,8.70,40.91,,2.60,0.42,4350000000,2022-03-23
+PSFD,Pacer Swan SOS Flex (January) ETF,Nontraditional Equity,Defined Outcome,1.170,2.400,8.16,14.82,3.91,20.14,11.50,,0.60,53960000,2020-12-22
+XAR,Stt Strt SPDR S&P Arspc&Dfnc ETF,Sector Equity,Industrials,1.170,2.240,21.94,32.03,7.47,52.16,15.73,0.35,0.35,5780000000,2011-09-28
+PSFF,Pacer Swan SOS Fund of Funds ETF,Nontraditional Equity,Defined Outcome,1.170,2.360,6.79,13.10,3.99,18.08,9.27,,0.72,539710000,2020-12-29
+UJAN,Innovator US Equity Ultra Buff ETF Jan,Nontraditional Equity,Defined Outcome,1.170,2.260,6.16,12.32,2.98,16.90,7.71,,0.79,307170000,2018-12-31
+HDUS,Hartford Disciplined US Equity ETF,U.S. Equity,Large Blend,1.170,2.230,12.51,20.20,6.35,30.57,,1.51,0.19,162620000,2022-11-16
+FDEC,FT Vest US Equity Buffer ETF Dec,Nontraditional Equity,Defined Outcome,1.170,2.350,9.03,15.88,3.79,22.93,10.26,,0.85,1230000000,2020-12-18
+DFEV,Dimensional Emerging Markets Value ETF,International Equity,Diversified Emerging Mkts,1.170,2.240,14.51,22.76,19.02,53.77,,2.56,0.43,1490000000,2022-04-26
+EYLD,Cambria Emerging Shareholder Yield ETF,International Equity,Diversified Emerging Mkts,1.170,2.330,14.36,22.54,18.14,51.04,9.02,5.75,0.65,672650000,2016-07-13
+PRN,Invesco Dorsey Wright IndustrialsMomtETF,Sector Equity,Industrials,1.170,2.270,24.70,35.37,32.82,69.78,18.21,0.15,0.60,404940000,2006-10-12
+QYLD,Global X NASDAQ 100 Covered Call ETF,Nontraditional Equity,Derivative Income,1.170,1.850,8.16,14.81,7.00,25.63,8.21,11.93,0.60,8080000000,2013-12-11
+SPTM,State StreetSPDRPortS&P1500CompStkMktETF,U.S. Equity,Large Blend,1.170,2.250,13.26,21.11,6.07,31.13,12.64,1.20,0.03,11740000000,2000-10-04
+BJUN,Innovator U.S. Equity Buffer ETF - June,Nontraditional Equity,Defined Outcome,1.170,2.330,8.09,14.68,3.85,20.96,8.64,,0.79,131800000,2019-05-31
+RHRX,RH Tactical Rotation ETF,Allocation,Tactical Allocation,1.170,2.270,13.24,21.11,14.09,42.18,,,1.38,21600000,2012-09-20
+EMGF,iShares Em Mkts Eq Fac ETF,International Equity,Diversified Emerging Mkts,1.170,2.250,15.13,23.46,18.24,50.37,9.02,2.44,0.26,1490000000,2015-12-08
+IYY,iShares Dow Jones US ETF,U.S. Equity,Large Blend,1.170,2.250,13.50,21.37,5.68,30.82,12.05,1.01,0.20,2580000000,2000-06-12
+XTJA,Innovator US Equity Acclrtd Pls ETF Jan,Nontraditional Equity,Defined Outcome,1.170,2.290,8.37,15.03,4.51,24.26,,,0.79,15260000,2021-12-31
+XVV,iShares ESG Select Screened S&P 500 ETF,U.S. Equity,Large Blend,1.170,2.260,13.98,21.95,4.40,30.10,12.73,1.03,0.08,611190000,2020-09-22
+CSM,ProShares Large Cap Core Plus,U.S. Equity,Large Blend,1.170,2.210,13.52,21.38,3.88,31.82,12.69,1.16,0.45,456350000,2009-07-13
+ACWI,iShares MSCI ACWI ETF,International Equity,Global Large-Stock Blend,1.170,2.160,12.37,19.96,7.10,31.68,10.78,1.59,0.32,28210000000,2008-03-26
+CGGR,Capital Group Growth ETF,U.S. Equity,Large Growth,1.170,2.200,17.05,25.72,0.38,28.25,,0.11,0.39,19470000000,2022-02-22
+AVIV,Avantis International Large Cap Val ETF,International Equity,Foreign Large Value,1.160,1.970,13.07,20.84,9.83,38.36,,3.00,0.25,1190000000,2021-09-29
+SPUS,SP Funds S&P 500 Sharia Industry Ex ETF,U.S. Equity,Large Growth,1.160,2.240,14.97,23.14,5.48,39.97,15.33,0.63,0.45,2040000000,2019-12-17
+FJAN,FT Vest US Equity Buffer ETF Jan,Nontraditional Equity,Defined Outcome,1.160,2.330,8.42,15.04,3.94,22.08,10.84,,0.85,1250000000,2021-01-15
+XEMD,BondBloxx JP Morgan USD EM 1-10 Yr BdETF,Taxable Bond,Emerging Markets Bond,1.160,2.020,5.10,10.96,1.90,12.85,,6.12,0.29,873070000,2022-06-28
+SPYI,NEOS S&P 500(R) High Income ETF,Nontraditional Equity,Derivative Income,1.160,1.960,9.25,16.08,3.85,25.22,,12.50,0.68,8120000000,2022-08-29
+IUS,Invesco RAFI Strategic US ETF,U.S. Equity,Large Value,1.160,2.140,12.04,19.53,10.84,33.73,13.56,1.46,0.19,693590000,2018-09-12
+XBJA,Innovator US Eq Acclrtd 9 Bffr ETF Jan,Nontraditional Equity,Defined Outcome,1.160,2.270,5.86,11.89,3.52,17.72,,,0.79,89950000,2021-12-31
+MISL,First Trust Indxx Aerspc&Defns ETF,Sector Equity,Industrials,1.160,2.190,17.69,26.47,3.38,39.99,,0.37,0.60,1440000000,2022-10-25
+USCA,Xtrackers MSCI USA Clmt Actn Eq ETF,U.S. Equity,Large Blend,1.160,2.250,13.22,20.93,2.91,23.88,,1.24,0.07,2670000000,2023-04-03
+VGT,Vanguard Information Technology ETF,Sector Equity,Technology,1.160,2.510,20.34,29.77,9.62,50.88,17.76,0.44,0.09,121280000000,2004-01-26
+STXG,Strive 1000 Growth ETF,U.S. Equity,Large Growth,1.160,2.300,15.33,23.54,3.73,31.03,,0.55,0.18,130760000,2022-11-09
+FMAY,FT Vest US Equity Buffer ETF May,Nontraditional Equity,Defined Outcome,1.160,2.310,7.77,14.22,3.55,21.12,9.42,,0.85,1070000000,2020-05-15
+KOKU,Xtrackers MSCI Kokusai Equity ETF,International Equity,Global Large-Stock Blend,1.160,2.200,12.54,20.09,5.49,29.13,11.81,1.55,0.09,689670000,2020-04-07
+IDOG,ALPS International Sector Div Dogs ETF,International Equity,Foreign Large Value,1.160,2.060,12.34,19.90,12.06,37.78,14.10,3.64,0.50,500670000,2013-06-27
+MLPB,UBS ETRACS Alerian MLPInfrs ETN SerB,Sector Equity,Energy Limited Partnership,1.160,2.280,15.42,23.66,20.76,26.38,22.46,5.83,0.85,220790000,2015-10-09
+FJUN,FT Vest US Equity Buffer ETF Jun,Nontraditional Equity,Defined Outcome,1.160,2.270,8.45,15.03,3.52,19.07,10.89,,0.85,1100000000,2020-06-19
+HYZD,WisdomTree Interest Rt Hdg Hi Yld Bd ETF,Taxable Bond,Nontraditional Bond,1.160,2.570,3.92,9.48,1.88,10.20,6.11,6.05,0.43,224030000,2013-12-18
+XYLG,Global X S&P 500 Covered Call&Gr ETF,Nontraditional Equity,Derivative Income,1.160,2.000,9.63,16.49,4.56,24.34,10.33,6.13,0.35,60270000,2020-09-18
+VTI,Vanguard Total Stock Market ETF,U.S. Equity,Large Blend,1.160,2.210,13.60,21.37,5.98,31.36,11.85,1.17,0.03,1991750000000,2001-05-24
+ILCG,iShares Morningstar Growth ETF,U.S. Equity,Large Growth,1.160,2.360,17.35,25.96,5.70,33.53,12.83,0.50,0.04,2530000000,2004-06-28
+URTH,iShares MSCI World ETF,International Equity,Global Large-Stock Blend,1.160,2.140,12.40,19.88,5.80,29.41,11.50,1.53,0.24,7310000000,2012-01-10
+SCHB,Schwab US Broad Market ETF,U.S. Equity,Large Blend,1.160,2.220,13.65,21.40,6.01,31.42,11.89,1.18,0.03,36930000000,2009-11-03
+BUFR,FT Vest Laddered Buffer ETF,Nontraditional Equity,Defined Outcome,1.160,2.270,8.13,14.63,4.23,21.26,9.65,,0.95,8650000000,2020-08-10
+QTJA,Innovator Growth Accelerated Pls ETF Jan,Nontraditional Equity,Defined Outcome,1.160,2.370,10.73,17.85,6.44,33.33,,,0.79,13510000,2021-12-31
+CRBN,iShares Low Carbon Optd MSCI ACWI ETF,International Equity,Global Large-Stock Blend,1.160,2.140,12.58,20.08,6.14,30.30,10.63,2.29,0.20,978480000,2014-12-08
+JANW,AllianzIM US Equity Buffer20 Jan ETF,Nontraditional Equity,Defined Outcome,1.160,2.310,5.13,10.96,2.80,14.83,7.99,,0.74,328410000,2020-12-31
+SLVO,UBS ETRACS Silver Shares Covered CallETN,Commodities,Commodities Focused,1.160,2.570,21.25,30.81,9.16,64.83,14.99,38.15,0.65,345320000,2013-04-16
+GDMN,WisdomTree Efcnt Gld Pls Gld Ms Stgy ETF,Alternative,Multi-Asset Overlay,1.160,2.370,46.28,60.37,3.06,105.67,,2.52,0.45,219370000,2021-12-14
+FTQI,First Trust Nasdaq BuyWrite Income ETF,Nontraditional Equity,Derivative Income,1.160,2.070,9.36,16.13,6.12,28.08,10.81,11.98,0.76,775400000,2014-01-06
+ITOT,iShares Core S&P Total US Stock Mkt ETF,U.S. Equity,Large Blend,1.160,2.210,13.67,21.39,6.02,31.48,11.84,1.13,0.03,79620000000,2004-01-20
+XDEC,FT Vest US Eq Enh&Mdt Bfr ETF Dec,Nontraditional Equity,Defined Outcome,1.160,2.230,4.43,10.10,2.88,14.85,,,0.85,165320000,2021-12-17
+AVEM,Avantis Emerging Markets Equity ETF,International Equity,Diversified Emerging Mkts,1.160,2.190,15.11,23.21,17.40,53.38,9.06,2.45,0.33,19940000000,2019-09-17
+VTHR,Vanguard Russell 3000 ETF,U.S. Equity,Large Blend,1.160,2.200,13.54,21.22,5.93,31.01,11.83,1.16,0.06,5170000000,2010-09-20
+EIPX,FT Energy Income Partners Strategy ETF,Sector Equity,Equity Energy,1.150,2.080,13.44,21.14,25.19,40.67,,2.67,0.95,515420000,2022-11-02
+YALL,God Bless America ETF,U.S. Equity,Large Blend,1.150,2.300,15.66,23.77,1.38,16.56,,0.51,0.65,94890000,2022-10-10
+LRND,NYLI U.S. Large Cap R&D Leaders ETF,U.S. Equity,Large Growth,1.150,2.300,15.50,23.61,3.75,33.82,,0.60,0.14,204530000,2022-02-08
+DDEC,FT Vest US Equity Dp Bfr ETF Dec,Nontraditional Equity,Defined Outcome,1.150,2.270,6.65,12.79,3.01,18.58,8.02,,0.85,405420000,2020-12-18
+TYLG,Global X Information Tch Cvd Cll&Gr ETF,Nontraditional Equity,Derivative Income,1.150,2.350,14.71,22.65,9.89,41.35,,9.13,0.60,11230000,2022-11-21
+MODL,VictoryShares WestEnd U.S. Sector ETF,U.S. Equity,Large Blend,1.150,2.110,12.56,19.97,3.36,27.40,,0.76,0.46,800550000,2022-10-11
+MTUM,iShares MSCI USA Momentum Factor ETF,U.S. Equity,Large Blend,1.150,2.500,18.31,27.04,13.55,36.56,11.78,0.82,0.15,20240000000,2013-04-16
+FCPI,Fidelity Stocks for Inflation ETF,U.S. Equity,Large Blend,1.150,2.100,12.87,20.34,7.22,26.31,14.94,1.80,0.15,253120000,2019-11-05
+USSG,Xtrackers MSCI USA Selection Eq ETF,U.S. Equity,Large Blend,1.150,2.260,14.45,22.28,5.34,34.35,13.22,1.10,0.09,485900000,2019-03-06
+NANC,Unusual Whales Subversive Dem Trd ETF,U.S. Equity,Large Blend,1.150,2.180,15.42,23.44,3.10,29.56,,0.23,0.72,238880000,2023-02-07
+FQAL,Fidelity Quality Factor ETF,U.S. Equity,Large Blend,1.150,2.090,12.05,19.33,4.01,24.61,11.90,1.25,0.15,1230000000,2016-09-12
+ITAN,Sparkline Intangible Value ETF,U.S. Equity,Large Value,1.150,2.130,14.38,22.16,6.47,36.32,,1.18,0.50,70700000,2021-06-28
+OVL,Overlay Shares Large Cap Equity ETF,Nontraditional Equity,Derivative Income,1.150,2.130,15.24,23.20,7.74,36.60,13.36,5.92,0.79,164590000,2019-09-30
+HFXI,NYLI FTSE International Eq Ccy Netrl ETF,International Equity,Foreign Large Blend,1.150,1.980,11.28,18.43,10.78,34.23,11.86,4.44,0.20,1380000000,2015-07-22
+PSMD,Pacer Swan SOS Moderate (January) ETF,Nontraditional Equity,Defined Outcome,1.150,2.310,6.57,12.66,3.33,17.27,8.98,,0.60,88610000,2020-12-22
+BULZ,MicroSectors Slct FANG Inn 3X Lvgd ETNs,Miscellaneous,Leveraged Equity,1.150,2.950,81.10,99.23,26.57,226.90,,,0.95,1500000000,2021-08-17
+TOK,iShares MSCI Kokusai ETF,International Equity,Global Large-Stock Blend,1.150,2.170,12.64,20.02,5.50,29.31,11.77,1.42,0.25,220630000,2007-12-10
+PJAN,Innovator US Equity Power Buff ETF Jan,Nontraditional Equity,Defined Outcome,1.150,2.300,6.85,12.98,3.15,17.38,8.67,,0.79,1550000000,2018-12-31
+IWV,iShares Russell 3000 ETF,U.S. Equity,Large Blend,1.150,2.180,13.55,21.09,5.72,30.93,11.69,0.99,0.20,17050000000,2000-05-22
+VT,Vanguard Total World Stock ETF,International Equity,Global Large-Stock Blend,1.150,2.100,12.49,19.81,7.45,32.10,10.57,1.82,0.06,79220000000,2008-06-24
+BUFF,Innovator Laddered Allc Pwr Bfr ETF,Nontraditional Equity,Defined Outcome,1.150,2.240,6.52,12.57,3.69,17.47,8.46,,0.89,785180000,2016-10-20
+BAPR,Innovator U.S. Equity Buffer ETF - Apr,Nontraditional Equity,Defined Outcome,1.140,2.070,8.84,15.37,8.56,23.40,10.96,,0.79,346770000,2019-03-29
+SHNY,MicroSectors Gold 3X Leveraged ETN,Miscellaneous,Leveraged Commodities,1.140,2.240,49.40,62.45,-1.37,74.14,,,0.95,138990000,2023-02-21
+SIVR,abrdn Physical Silver Shares ETF,Commodities,Commodities Focused,1.140,2.300,31.73,42.86,3.53,125.54,22.90,,0.30,4970000000,2009-07-24
+ARKQ,ARK Autonomous Technology&Robotics ETF,U.S. Equity,Mid-Cap Growth,1.140,2.220,30.18,41.00,12.32,84.57,9.25,0.27,0.75,1830000000,2014-09-30
+UOCT,Innovator U.S. Equity Ultra Buf ETF Oct,Nontraditional Equity,Defined Outcome,1.140,2.260,5.79,11.66,3.02,16.58,7.94,,0.79,232680000,2018-09-28
+ESGU,iShares ESG Aware MSCI USA ETF,U.S. Equity,Large Blend,1.140,2.210,13.59,21.06,5.38,30.71,11.85,1.07,0.15,14820000000,2016-12-01
+PSCJ,Pacer Swan SOS Conservative (July) ETF,Nontraditional Equity,Defined Outcome,1.140,2.200,7.82,14.11,3.38,20.74,,,0.60,40030000,2021-06-30
+SUSL,iShares ESG MSCI USA Leaders ETF,U.S. Equity,Large Blend,1.140,2.240,14.53,22.20,5.03,34.23,13.22,1.08,0.10,971660000,2019-05-07
+DFAU,Dimensional US Core Equity Market ETF,U.S. Equity,Large Blend,1.140,2.160,13.52,20.96,6.24,32.07,12.27,1.03,0.12,10230000000,2020-11-17
+HTUS,Hull Tactical US ETF,Nontraditional Equity,Equity Hedged,1.140,2.230,14.00,21.54,6.12,30.00,15.18,1.28,0.96,123920000,2015-06-24
+VEGN,US Vegan Climate ETF,U.S. Equity,Large Growth,1.140,2.450,17.21,25.40,9.91,35.38,12.51,0.63,0.60,131470000,2019-09-09
+PGRO,Putnam Focused Large Cap Growth ETF,U.S. Equity,Large Growth,1.140,2.200,17.01,25.10,2.28,28.53,,0.02,0.49,63460000,2021-05-25
+FIVA,Fidelity International Value Factor ETF,International Equity,Foreign Large Value,1.140,1.910,13.11,20.47,8.55,37.80,12.97,2.83,0.18,495490000,2018-01-16
+RFDI,First Trust RiverFront Dyn Dev Intl ETF,International Equity,Foreign Large Value,1.140,1.980,12.00,19.13,7.84,30.81,9.04,3.45,0.83,144950000,2016-04-13
+SLV,iShares Silver Trust,Commodities,Commodities Focused,1.140,2.280,31.73,42.58,3.48,125.20,22.66,,0.50,35680000000,2006-04-21
+SHE,Stt Strt SPDR MSCI USA Gndr Divst ETF,U.S. Equity,Large Blend,1.140,2.220,13.44,20.81,8.56,27.39,9.00,1.26,0.20,268700000,2016-03-07
+DWLD,Davis Select Worldwide ETF,International Equity,Global Large-Stock Blend,1.140,2.100,14.10,21.57,0.22,27.31,6.99,0.95,0.62,527950000,2017-01-11
+XLK,State StreetTechSelSectSPDRETF,Sector Equity,Technology,1.130,2.530,20.47,29.25,10.92,52.78,18.86,0.57,0.08,84200000000,1998-12-16
+DTCR,Global X Data Center&Dgtl Infrs ETF,Sector Equity,Real Estate,1.130,2.440,23.01,32.31,36.68,75.33,13.37,0.98,0.50,1200000000,2020-10-27
+ESGG,FlexShares STOXX Glbl ESG Select ETF,International Equity,Global Large-Stock Blend,1.130,2.060,11.92,18.95,6.06,29.55,11.61,1.43,0.42,99350000,2016-07-13
+FVAL,Fidelity Value Factor ETF,U.S. Equity,Large Value,1.130,2.140,12.71,19.87,5.72,33.27,12.00,1.71,0.15,1080000000,2016-09-12
+DFNL,Davis Select Financial ETF,Sector Equity,Financial,1.130,2.240,15.88,23.63,-2.02,24.48,12.11,1.47,0.61,444450000,2017-01-11
+PTF,Invesco Dorsey Wright Technology MomtETF,Sector Equity,Technology,1.130,2.500,30.17,40.64,45.65,89.41,18.61,0.01,0.60,546570000,2006-10-12
+KEMX,KraneShares MSCI Em Mkts ex CHN ETF,International Equity,Diversified Emerging Mkts,1.130,2.260,17.82,25.99,25.72,68.51,11.94,3.14,0.24,100740000,2019-04-12
+PIZ,Invesco DW Developed Markets Momt ETF,International Equity,Foreign Large Growth,1.130,2.060,17.00,24.93,16.00,39.27,11.34,1.55,0.80,665010000,2007-12-28
+FDVV,Fidelity High Dividend ETF,U.S. Equity,Large Value,1.130,1.990,11.89,18.80,5.04,26.94,13.57,3.00,0.15,8530000000,2016-09-12
+FDEM,Fidelity Emerging Markets Mltfct ETF,International Equity,Diversified Emerging Mkts,1.130,2.100,13.45,20.70,14.40,41.81,8.70,3.28,0.25,452470000,2019-02-26
+SPUU,Direxion Daily S&P 500 Bull 2X ETF,Miscellaneous,Leveraged Equity,1.130,2.190,26.74,36.27,9.24,60.56,18.56,1.78,0.60,187410000,2014-05-28
+PIT,VanEck Commodity Strategy ETF,Commodities,Commodities Broad Basket,1.120,2.710,16.10,23.94,45.07,74.41,,6.52,0.55,187700000,2022-12-20
+AVUS,Avantis US Equity ETF,U.S. Equity,Large Blend,1.120,2.120,13.97,21.25,9.46,36.17,12.48,1.04,0.15,10910000000,2019-09-24
+PJUN,Innovator U.S. Equity Power BffrETF-Jun,Nontraditional Equity,Defined Outcome,1.120,2.380,6.02,11.83,2.96,17.40,7.04,,0.79,625580000,2019-05-31
+TQQQ,ProShares UltraPro QQQ,Miscellaneous,Leveraged Equity,1.120,2.510,53.98,67.03,20.72,133.16,19.86,0.75,0.82,24590000000,2010-02-09
+APRT,AllianzIM US Equity Buffer10 Apr ETF,Nontraditional Equity,Defined Outcome,1.120,2.010,8.31,14.54,7.81,21.98,10.44,,0.74,40350000,2020-05-28
+PFEB,Innovator US Equity Power Bffr ETF Feb,Nontraditional Equity,Defined Outcome,1.120,2.190,6.65,12.57,3.56,18.16,8.50,,0.79,863980000,2020-01-31
+CVLC,Calvert US Large-Cp Cor Rspnb ETF,U.S. Equity,Large Blend,1.120,2.140,14.24,21.54,6.38,31.56,,1.05,0.15,695910000,2023-01-30
+HEQT,Simplify Hedged Equity ETF,Nontraditional Equity,Equity Hedged,1.120,1.930,7.43,13.48,3.04,16.47,,1.28,0.43,307350000,2021-11-01
+BUFT,FT Vest Buffered Allctn Dfnsv ETF,Nontraditional Equity,Defined Outcome,1.120,2.510,4.62,10.18,4.17,14.47,,,1.21,140040000,2021-10-26
+AUSF,Global X Adaptive US Factor ETF,U.S. Equity,Mid-Cap Value,1.120,2.110,13.22,20.30,7.27,19.77,13.66,2.71,0.27,832670000,2018-08-24
+UFO,Procure Space ETF,Sector Equity,Miscellaneous Sector,1.120,2.390,32.16,42.62,33.64,132.34,13.60,0.37,0.75,376190000,2019-04-10
+MSTQ,LHA Market State Tactical Q ETF,Nontraditional Equity,Equity Hedged,1.120,2.200,16.11,23.72,7.04,31.30,,0.79,1.59,31710000,2022-03-14
+LEXI,Alexis Practical Tactical ETF,Allocation,Tactical Allocation,1.120,2.140,11.70,18.53,7.73,32.21,,0.95,1.00,153830000,2021-06-30
+LCLG,Logan Capital Broad Innovative Gr ETF,U.S. Equity,Large Growth,1.120,2.150,19.25,27.39,7.48,39.84,,,0.90,89700000,2012-06-28
+ILDR,First Trust Innovation Leaders ETF,U.S. Equity,Large Growth,1.120,2.210,21.29,29.79,5.35,44.10,,,0.75,208920000,2021-05-25
+AVSE,Avantis Responsible Emerging Mkts Eq ETF,International Equity,Diversified Emerging Mkts,1.120,2.060,15.18,22.62,15.69,49.01,,2.73,0.33,177620000,2022-03-28
+FPAG,FPA Global Equity ETF,International Equity,Global Large-Stock Value,1.120,1.980,13.92,21.09,4.76,31.48,,1.56,0.49,387060000,2021-12-16
+JGRO,JPMorgan Active Growth ETF,U.S. Equity,Large Growth,1.120,2.130,16.57,24.12,0.92,25.18,,0.17,0.44,8180000000,2022-08-08
+DDWM,WisdomTree Dynamic International Eq ETF,International Equity,Foreign Large Value,1.120,1.770,10.05,16.53,4.62,23.07,12.73,2.49,0.40,1260000000,2016-01-07
+FPEI,First Trust Instl Pref Secs and Inc ETF,Taxable Bond,Preferred Stock,1.120,2.190,5.00,10.54,0.78,10.35,4.20,5.78,0.85,1890000000,2017-08-22
+QINT,American Century Quality Dvrs Intl ETF,International Equity,Foreign Large Blend,1.110,1.910,12.64,19.56,7.80,31.70,9.34,2.69,0.34,534980000,2018-09-10
+DJAN,FT Vest US Equity Dp Bffr ETF Jan,Nontraditional Equity,Defined Outcome,1.110,2.150,6.59,12.43,2.89,17.67,7.44,,0.85,444290000,2021-01-15
+LCTU,iShares US Carb Trnstn Rdnss Awr Act ETF,U.S. Equity,Large Blend,1.110,2.080,13.41,20.40,3.95,28.81,11.70,1.07,0.15,1320000000,2021-04-06
+SGLC,SGI U.S. Large Cap Core ETF,U.S. Equity,Large Blend,1.110,2.160,13.72,20.79,7.57,34.73,,0.24,0.85,167750000,2023-03-30
+EMHY,iShares J.P. Morgan EM High Yld Bd ETF,Taxable Bond,Emerging Markets Bond,1.110,2.060,6.71,12.56,1.67,13.70,4.39,6.58,0.50,569020000,2012-04-03
+AVGE,Avantis All Equity Markets ETF,International Equity,Global Large-Stock Blend,1.110,2.070,13.40,20.42,11.47,38.22,,1.82,0.23,796930000,2022-09-27
+FNDX,Schwab Fundamental U.S. Large CompanyETF,U.S. Equity,Large Value,1.110,2.010,12.72,19.62,11.03,34.12,13.08,1.62,0.25,23670000000,2013-08-15
+VLUE,iShares MSCI USA Value Factor ETF,U.S. Equity,Large Value,1.110,2.210,17.55,25.32,22.71,66.59,12.88,2.00,0.15,10020000000,2013-04-16
+GOP,Unusual Whales Subversive Rep Trd ETF,U.S. Equity,Large Blend,1.110,2.260,14.12,21.26,16.65,41.27,,0.66,0.73,68770000,2023-02-07
+QUS,Stt Strt SPDR MSCI USA StratFacs ETF,U.S. Equity,Large Blend,1.110,1.920,10.85,17.38,4.50,19.50,11.17,1.40,0.15,1460000000,2015-04-15
+RSPT,Invesco S&P 500 Equal Weight Tech ETF,Sector Equity,Technology,1.110,2.330,19.45,27.47,17.81,55.88,14.68,0.38,0.40,3830000000,2006-11-01
+UFEB,Innovator US Equity Ultra Bffr ETF Feb,Nontraditional Equity,Defined Outcome,1.110,2.120,6.49,12.30,3.25,17.26,6.95,,0.79,236630000,2020-01-31
+UJUL,Innovator U.S. Equity Ultra BffrETF-Jul,Nontraditional Equity,Defined Outcome,1.110,2.110,7.36,13.31,3.25,20.00,8.33,,0.79,150370000,2018-08-07
+DCRE,DoubleLine Commercial Real Estt Dbt ETF,Taxable Bond,Securitized Bond - Focused,1.110,1.730,1.35,6.27,1.28,4.81,,4.80,0.39,405930000,2023-03-31
+VFMO,Vanguard US Momentum Factor ETF,U.S. Equity,Mid-Cap Blend,1.110,2.050,19.30,27.20,17.19,48.10,13.13,0.75,0.13,1340000000,2018-02-13
+BUFD,FT Vest Laddered Deep Buffer ETF,Nontraditional Equity,Defined Outcome,1.110,2.140,6.54,12.34,3.36,17.89,7.26,,0.95,1710000000,2021-01-20
+EMXC,iShares MSCI Emerging Mkts ex China ETF,International Equity,Diversified Emerging Mkts,1.110,2.250,17.61,25.32,25.28,65.45,11.20,2.64,0.25,17540000000,2017-07-18
+PRF,Invesco RAFI US 1000 ETF,U.S. Equity,Large Value,1.110,2.030,12.97,19.85,10.81,34.40,12.47,1.56,0.34,8750000000,2005-12-19
+XBOC,Innovator US Eq Acclrtd 9 Bffr ETF Oct,Nontraditional Equity,Defined Outcome,1.110,2.380,6.07,11.79,3.61,17.38,,,0.79,61700000,2021-09-30
+PSFM,Pacer Swan SOS Flex (April) ETF,Nontraditional Equity,Defined Outcome,1.110,1.960,7.63,13.60,7.34,20.38,9.91,,0.60,21090000,2021-03-31
+HFGO,Hartford Large Cap Growth ETF,U.S. Equity,Large Growth,1.110,2.080,18.89,26.62,2.09,30.78,,,0.59,159460000,2021-11-09
+SSO,ProShares Ultra S&P500,Miscellaneous,Leveraged Equity,1.110,2.140,26.81,35.67,8.93,59.92,17.99,0.82,0.87,5410000000,2006-06-19
+KBWB,Invesco KBW Bank ETF,Sector Equity,Financial,1.110,2.220,23.30,31.66,4.26,47.63,8.91,2.27,0.35,4830000000,2011-11-01
+RFDA,ALPS Dynamic US Dividend Advtg ETF,U.S. Equity,Large Value,1.110,2.240,12.63,19.38,8.16,35.13,12.88,1.98,0.52,75320000,2016-06-06
+GSLC,Goldman Sachs ActiveBeta US LgCp Eq ETF,U.S. Equity,Large Blend,1.100,2.070,13.17,19.95,3.80,26.76,11.93,1.06,0.09,13850000000,2015-09-17
+RING,iShares MSCI Global Gold Miners ETF,Sector Equity,Equity Precious Metals,1.100,2.190,35.70,45.34,3.94,89.31,23.95,0.78,0.39,3200000000,2012-01-31
+RWL,Invesco S&P 500 Revenue ETF,U.S. Equity,Large Value,1.100,2.000,12.40,19.04,8.60,29.46,13.06,1.38,0.39,8090000000,2008-02-19
+ROUS,Hartford Multifactor US Equity ETF,U.S. Equity,Large Value,1.100,1.940,12.00,18.57,10.36,28.64,11.98,1.50,0.19,535520000,2015-02-25
+MFUS,PIMCO RAFI Dyn Multi-Factor US Eq ETF,U.S. Equity,Large Value,1.100,1.920,12.93,19.63,10.82,28.44,12.54,1.49,0.29,229100000,2017-08-31
+ICVT,iShares Convertible Bond ETF,Allocation,Convertibles,1.100,2.130,12.20,18.83,14.83,35.26,5.52,1.62,0.20,5250000000,2015-06-02
+AMLP,Alerian MLP ETF,Sector Equity,Energy Limited Partnership,1.100,2.160,13.90,20.75,17.40,21.67,19.83,7.56,1.01,12160000000,2010-08-25
+VLU,State Street SPDR S&P 1500 ValTiltETF,U.S. Equity,Large Value,1.100,2.000,12.97,19.67,10.50,32.67,12.23,1.78,0.12,621350000,2012-10-24
+FAUG,FT Vest US Equity Buffer ETF Aug,Nontraditional Equity,Defined Outcome,1.100,2.090,8.42,14.42,3.98,21.55,8.62,,0.85,1080000000,2019-11-06
+THNQ,Robo Global Artificial Intelligence ETF,Sector Equity,Technology,1.100,2.320,24.74,33.11,12.64,59.35,11.52,0.22,0.68,265620000,2020-05-08
+QUAL,iShares MSCI USA Quality Factor ETF,U.S. Equity,Large Blend,1.100,1.900,12.69,19.29,4.57,23.57,11.52,0.98,0.15,46520000000,2013-07-16
+FJP,First Trust Japan AlphaDEX ETF,International Equity,Japan Stock,1.100,1.940,15.20,22.24,13.05,40.44,10.83,2.63,0.80,232570000,2011-04-18
+GURU,Global X Guru ETF,U.S. Equity,Large Blend,1.100,2.010,15.64,22.67,2.66,32.28,6.38,0.12,0.75,53590000,2012-06-04
+ARP,PMV Adaptive Risk Parity ETF,Allocation,Tactical Allocation,1.090,1.790,8.59,14.62,8.76,26.94,,6.29,1.42,71900000,2022-12-21
+CATH,Global X S&P 500 Catholic Values ETF,U.S. Equity,Large Blend,1.090,2.100,13.69,20.42,5.09,29.57,11.87,0.88,0.29,1090000000,2016-04-18
+GJAN,FT Vest U.S. Eq Mod Buffr ETF - Jan,Nontraditional Equity,Defined Outcome,1.090,2.180,6.55,12.22,3.14,17.35,,,0.85,450260000,2023-01-20
+QARP,Xtrackers Russell 1000 US QARP ETF,U.S. Equity,Large Blend,1.090,1.940,11.89,18.33,8.42,28.10,12.18,1.13,0.19,70850000,2018-04-04
+TMFE,Motley Fool Capital Efficiency 100 ETF,U.S. Equity,Large Blend,1.090,1.960,13.75,20.40,-0.34,11.14,,0.34,0.50,81630000,2021-12-30
+NLR,VanEck Uranium&Nuclear ETF,Sector Equity,Natural Resources,1.090,1.980,31.89,40.66,17.53,89.48,25.13,2.40,0.56,4570000000,2007-08-13
+TRFM,AAM Transformers ETF,International Equity,Global Large-Stock Growth,1.090,2.160,22.84,30.75,14.61,53.80,,0.17,0.49,125510000,2022-07-11
+DEM,WisdomTree Emerging Markets High Div ETF,International Equity,Diversified Emerging Mkts,1.090,2.050,10.81,17.12,12.77,30.69,9.42,4.32,0.63,3470000000,2007-07-13
+HYBL,State Street Blackstone High Income ETF,Taxable Bond,High Yield Bond,1.090,2.160,3.31,8.48,0.87,8.28,,7.27,0.70,543360000,2022-02-16
+VSMV,VictoryShares US Mult-Fctr Mnmm Vltl ETF,U.S. Equity,Large Value,1.090,1.840,9.75,15.87,6.75,23.74,11.42,1.40,0.35,147160000,2017-06-21
+TIME,Clockwise U.S. Core Equity ETF,U.S. Equity,Large Growth,1.090,2.150,19.68,27.13,3.57,25.04,,10.88,0.96,10270000,2022-01-27
+PPI,Astoria Real Asset ETF,Allocation,Global Moderately Aggressive Allocation,1.090,2.080,15.59,22.55,18.89,55.12,,1.06,0.58,140460000,2021-12-30
+FEP,First Trust Europe AlphaDEX ETF,International Equity,Europe Stock,1.090,1.920,15.73,22.71,8.30,41.17,10.53,3.22,0.80,487670000,2011-04-18
+DEMZ,Democratic Large Cap Core ETF,U.S. Equity,Large Blend,1.090,2.020,14.37,21.09,3.30,29.68,12.27,0.50,0.45,54310000,2020-11-02
+MEMX,Matthews Emerging Markets Ex Chn Act ETF,International Equity,Diversified Emerging Mkts,1.090,2.050,16.93,24.06,19.91,64.00,,1.96,0.79,39280000,2023-01-10
+AVLV,Avantis US Large Cap Value ETF,U.S. Equity,Large Value,1.090,1.980,14.30,21.03,14.58,40.36,,1.21,0.15,10410000000,2021-09-21
+ESGV,Vanguard ESG US Stock ETF,U.S. Equity,Large Blend,1.090,2.080,14.77,21.53,4.25,30.26,11.37,1.01,0.09,11110000000,2018-09-18
+SGDJ,Sprott Junior Gold Miners ETF,Sector Equity,Equity Precious Metals,1.090,2.000,37.61,46.52,5.76,107.24,19.40,8.35,0.50,317280000,2015-03-31
+PWV,Invesco Large Cap Value ETF,U.S. Equity,Large Value,1.090,1.900,13.16,19.70,10.95,31.19,13.17,1.93,0.55,1360000000,2005-03-03
+DSEP,FT Vest US Equity Dp Bffr ETF Sep,Nontraditional Equity,Defined Outcome,1.090,2.110,6.96,12.65,3.32,17.06,7.73,,0.85,327750000,2020-09-18
+SFLR,Innovator Equity Managed Floor ETF,Nontraditional Equity,Equity Hedged,1.090,1.810,9.24,15.21,0.11,17.42,,0.35,0.89,1510000000,2022-11-08
+GSJY,Goldman Sachs ActiveBeta Japan Eq ETF,International Equity,Japan Stock,1.090,1.740,12.06,18.45,9.25,30.06,8.61,1.96,0.25,75490000,2016-03-02
+XTOC,Innovator US Equity Acclrtd Pls ETF Oct,Nontraditional Equity,Defined Outcome,1.090,2.290,8.79,14.72,4.67,24.08,,,0.79,18630000,2021-09-30
+DFEM,Dimensional Emerging Markets Cr Eq 2 ETF,International Equity,Diversified Emerging Mkts,1.080,2.040,14.40,21.12,17.69,49.83,,2.26,0.39,7460000000,2022-04-26
+SPRX,Spear Alpha ETF,Sector Equity,Technology,1.080,2.200,37.38,46.37,12.16,102.35,,,0.75,143290000,2021-08-03
+FFND,One Global ETF,U.S. Equity,Large Growth,1.080,2.050,17.04,24.03,4.31,27.16,,0.68,1.00,89450000,2021-08-23
+APRJ,Innovator Premium Income 30 Bar ETF -Apr,Nontraditional Equity,Defined Outcome,1.080,2.380,1.49,6.45,2.48,7.91,,5.35,0.79,29420000,2023-03-31
+DSI,iShares ESG MSCI KLD 400 ETF,U.S. Equity,Large Blend,1.080,2.110,14.77,21.47,5.75,34.85,12.40,1.00,0.25,4620000000,2006-11-14
+JHDV,JHancock U.S. High Dividend ETF,U.S. Equity,Large Value,1.080,1.960,13.32,19.83,10.97,33.81,,2.33,0.34,8830000,2022-09-27
+ESG,FlexShares STOXX US ESG Select ETF,U.S. Equity,Large Blend,1.080,2.020,12.68,19.10,4.83,25.92,11.46,1.01,0.32,117710000,2016-07-13
+BKGI,BNY Mellon Global Infras Inc ETF,Sector Equity,Infrastructure,1.080,1.860,14.06,20.69,13.27,29.70,,2.42,0.55,818050000,2022-11-02
+URA,Global X Uranium ETF,Sector Equity,Natural Resources,1.080,2.090,38.90,47.80,32.04,136.67,28.60,4.40,0.69,6510000000,2010-11-04
+XME,Stt StrtSPDRS&PMtls&MngETF,Sector Equity,Natural Resources,1.080,1.870,26.88,34.84,14.66,111.60,25.16,0.35,0.35,4380000000,2006-06-19
+EQWL,Invesco S&P 100 Equal Weight ETF,U.S. Equity,Large Value,1.080,1.890,12.01,18.32,4.71,23.29,11.74,1.71,0.25,2290000000,2006-12-01
+HEGD,Swan Hedged Equity US Large Cap ETF,Nontraditional Equity,Equity Hedged,1.080,1.890,8.16,13.96,3.29,17.87,8.37,0.37,0.87,601370000,2020-12-22
+DVYA,iShares Asia/Pacific Dividend ETF,International Equity,Diversified Pacific/Asia,1.080,1.960,13.87,20.45,14.09,45.21,10.66,4.48,0.49,67430000,2012-02-23
+XDQQ,Innovator Gr 100 Acltd ETF Quarterly,Nontraditional Equity,Defined Outcome,1.080,1.760,13.61,20.08,1.09,23.73,8.34,,0.79,51830000,2021-03-31
+FLRG,Fidelity U.S. Multifactor ETF,U.S. Equity,Large Blend,1.080,1.970,11.86,18.10,5.32,22.67,12.45,1.50,0.15,261400000,2020-09-15
+DAPR,FT Vest US Equity Dp Bffr ETF Apr,Nontraditional Equity,Defined Outcome,1.080,1.970,5.29,10.68,2.20,11.32,5.98,,0.85,266560000,2021-04-16
+FLCA,Franklin FTSE Canada ETF,International Equity,Focused Region,1.080,1.930,14.45,21.02,8.34,38.01,13.16,1.83,0.09,676930000,2017-11-02
+FNDB,Schwab Fundamental U.S. Broad Market ETF,U.S. Equity,Large Value,1.080,1.940,13.00,19.38,11.17,34.08,12.71,1.61,0.25,1140000000,2013-08-15
+FSEP,FT Vest US Equity Buffer ETF Sep,Nontraditional Equity,Defined Outcome,1.080,2.100,8.68,14.50,4.09,20.75,9.74,,0.85,1170000000,2020-09-18
+EWS,iShares MSCI Singapore ETF,International Equity,Focused Region,1.080,1.790,12.95,19.30,5.34,24.25,8.93,4.03,0.50,804200000,1996-03-12
+DFAX,Dimensional World ex US Core Eq 2 ETF,International Equity,Foreign Large Blend,1.070,1.810,13.10,19.48,12.14,39.86,,2.51,0.28,10520000000,2008-03-06
+GTEK,Goldman Sachs Future Tech Leaders Eq ETF,Sector Equity,Technology,1.070,2.410,24.80,32.53,30.91,72.28,,,0.75,164060000,2021-09-14
+SPXL,Direxion Daily S&P500 Bull 3X ETF,Miscellaneous,Leveraged Equity,1.070,2.090,41.15,49.46,11.94,93.88,20.94,0.80,0.84,4650000000,2008-11-05
+DFAE,Dimensional Emerging Core Equity Mkt ETF,International Equity,Diversified Emerging Mkts,1.070,1.960,14.81,21.34,17.22,50.10,8.26,2.18,0.29,7700000000,2020-12-01
+BSJQ,Invesco BulletShares 2026 HY Corp Bd ETF,Taxable Bond,Target Maturity,1.070,2.080,2.31,7.30,1.65,6.84,4.02,5.95,0.43,1090000000,2018-08-09
+EWC,iShares MSCI Canada ETF,International Equity,Focused Region,1.070,1.890,14.53,20.99,8.66,40.21,12.77,1.42,0.50,4680000000,1996-03-12
+OVLH,Overlay Shares Hedged Lrg Cp Eq ETF,Nontraditional Equity,Equity Hedged,1.070,2.000,10.27,16.21,3.45,19.09,9.11,0.31,0.80,98060000,2021-01-14
+UPRO,ProShares UltraPro S&P500,Miscellaneous,Leveraged Equity,1.070,2.090,41.10,49.29,11.84,93.32,20.62,1.04,0.89,3970000000,2009-06-23
+DECZ,TrueShares Structured Outcome Dec ETF,Nontraditional Equity,Defined Outcome,1.070,2.020,9.62,15.48,4.01,21.31,10.55,3.40,0.79,57510000,2020-11-30
+INTF,iShares International Equity Factor ETF,International Equity,Foreign Large Blend,1.070,1.770,12.49,18.71,8.56,31.08,10.55,2.78,0.16,3160000000,2015-04-28
+AOA,iShares Core 80/20 Aggressive Allc ETF,Allocation,Global Moderately Aggressive Allocation,1.070,1.880,10.51,16.49,6.02,26.34,8.83,2.21,0.15,2800000000,2008-11-04
+ITA,iShares US Aerospace&Defense ETF,Sector Equity,Industrials,1.070,1.850,18.41,25.22,1.87,40.03,16.43,0.49,0.38,13490000000,2006-05-01
+FEBW,AllianzIM US Equity Buffer20 Feb ETF,Nontraditional Equity,Defined Outcome,1.070,2.080,5.64,11.03,2.85,15.36,,,0.74,115520000,2023-02-01
+UEVM,VictoryShares Emerging Mkts Val MomtETF,International Equity,Diversified Emerging Mkts,1.070,2.000,11.94,18.07,8.94,32.75,8.54,3.81,0.45,235740000,2017-10-24
+WINN,Harbor Long-Term Growers ETF,U.S. Equity,Large Growth,1.070,2.050,17.80,24.50,1.11,25.05,,,0.57,959980000,2022-02-02
+TECB,iShares US Tech Breakthrough Mltsctr ETF,Sector Equity,Technology,1.070,2.140,18.46,25.25,4.70,26.93,11.61,0.37,0.30,396890000,2020-01-08
+XCOR,FundX ETF,U.S. Equity,Large Growth,1.070,1.960,14.48,20.85,5.59,29.04,,0.45,1.15,165030000,2001-11-01
+FDRR,Fidelity Dividend ETF for Rising Rates,U.S. Equity,Large Value,1.070,1.880,12.35,18.50,4.41,33.30,11.70,2.38,0.15,637800000,2016-09-12
+NULC,Nuveen ESG Large-Cap ETF,U.S. Equity,Large Blend,1.070,2.020,13.67,19.96,8.26,29.52,10.51,0.97,0.21,48620000,2019-06-03
+FPX,First Trust US Equity Opportunities ETF,U.S. Equity,Mid-Cap Growth,1.070,2.100,24.44,31.71,10.91,53.21,8.35,0.59,0.61,1160000000,2006-04-12
+LOWV,AB US Low Volatility Equity ETF,U.S. Equity,Large Blend,1.070,1.930,10.20,16.05,2.02,15.55,,0.99,0.39,178910000,2023-03-21
+DLN,WisdomTree US LargeCap Dividend ETF,U.S. Equity,Large Value,1.060,1.750,11.10,17.07,7.74,25.10,12.30,1.91,0.28,5650000000,2006-06-16
+DEW,WisdomTree Global High Dividend ETF,International Equity,Global Large-Stock Value,1.060,1.840,11.71,17.77,12.10,29.54,11.91,3.34,0.58,135530000,2006-06-16
+COWG,Pacer US Large Cp CA Cows Gr Ldrs ETF,U.S. Equity,Mid-Cap Growth,1.060,2.040,15.93,22.39,3.24,14.84,,0.35,0.49,2100000000,2022-12-21
+TUG,STF Tactical Growth ETF,Allocation,Tactical Allocation,1.060,2.190,16.16,22.68,7.83,38.52,,0.66,0.65,29770000,2022-05-18
+QTR,Global X NASDAQ 100 Tail Risk ETF,Nontraditional Equity,Equity Hedged,1.060,2.090,15.91,22.37,5.82,31.87,,16.85,0.25,2550000,2021-08-25
+WTPI,WisdomTree Equity Premium Income Fund,Nontraditional Equity,Derivative Income,1.060,1.700,8.07,13.70,2.09,19.96,10.07,9.91,0.44,434390000,2016-02-24
+ACVF,American Conservative Values ETF,U.S. Equity,Large Blend,1.060,1.900,12.40,18.47,4.57,21.35,11.58,0.61,0.75,132260000,2020-10-28
+RBLD,First Trust Alerian US NextGen InfrasETF,Sector Equity,Miscellaneous Sector,1.060,2.000,16.19,22.67,18.85,36.24,10.90,1.11,0.65,20320000,2008-10-13
+OCTT,AllianzIM US Equity Buffer10 Oct ETF,Nontraditional Equity,Defined Outcome,1.060,2.030,8.42,14.08,4.14,22.04,10.01,,0.74,59320000,2020-09-30
