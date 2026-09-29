@@ -27,12 +27,13 @@ python top_etfs.py --help
 |---|---|---|
 | `-l`, `--limit` | `300` | Target row count. Server returns 15 rows/page, so the actual count may overshoot the limit; **all fetched rows are kept**. |
 | `-o`, `--output` | `top_etfs.csv` | Output CSV path. |
+| `-d`, `--delay` | `2.5` | Seconds between requests. Doubled automatically (up to 30s) on each HTTP 429. |
 | `-h`, `--help` | – | Show usage and exit. |
 
 ## How it works
 
 1. POSTs the screener form with `fundType=ETF` and `performanceHistoryPeriod=all`.
-2. Pages through the DataTables AJAX endpoint with **server-side sort by Sharpe descending**, so we fetch only ~LIMIT rows instead of the full ~2,640. The server hard-caps responses at 15 rows per page; the script paces 2.5s between requests with exponential backoff on HTTP 429.
+2. Pages through the DataTables AJAX endpoint with **server-side sort by Sharpe descending**, so we fetch only ~LIMIT rows instead of the full ~2,640. The server hard-caps responses at 15 rows per page; the script paces 2.5s between requests (`--delay`). On HTTP 429 it waits (honoring `Retry-After` if sent), doubles the pacing for the rest of the run, and prints a `[rate-limited]` summary at the end suggesting a `--delay` for next time.
 3. Parses the 20 returned columns and writes the CSV ranked by Sharpe.
 
 Typical runtime: ~60s for 300 rows, ~110s for 600 rows.
@@ -49,22 +50,11 @@ All Sharpe/Sortino/Volatility figures are 3-year values from PV (trailing 36 mon
 | `Sharpe` | 3-year Sharpe ratio (the ranking key) |
 | `Sortino` | 3-year Sortino ratio |
 | `Volatility_pct` | Annualized stdev of monthly returns over the trailing 36 months, % |
-| `Return_YTD_pct`, `Return_1Y_pct`, `Return_3Y_pct`, `Return_5Y_pct` | Additional return windows |
+| `Return_YTD_pct`, `Return_1Y_pct`, `Return_3Y_pct`, `Return_5Y_pct` | Total returns, %. YTD and 1Y are simple period returns; 3Y and 5Y are **annualized** |
 | `YieldTTM_pct`, `ExpenseRatio_pct` | Income & cost |
 | `Assets_USD` | AUM in USD |
 | `Inception` | ETF inception date |
 
-## Verification
-
-The scraped data was cross-checked against an independent recomputation from yfinance adjusted-close prices for SMH (VanEck Semiconductor ETF) over May 2023 → May 2026:
-
-| Metric | PV scraped | Recomputed | Δ |
-|---|---|---|---|
-| 3Y Volatility | 30.34% | 29.78% | −0.56 pp |
-| 3Y Annualized Return | 60.75% | 58.46% | −2.29 pp |
-| 3Y Sharpe (rf=4.0%) | 1.58 | 1.577 | ~0 |
-
-The Sharpe match is essentially exact when the risk-free rate is 4%, confirming PV's methodology. Small return/volatility gaps are attributable to data-source differences (NAV vs adjusted close) and cutoff-date alignment.
 
 ## Files in this directory
 

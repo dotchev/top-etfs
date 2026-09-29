@@ -32,7 +32,8 @@ COLUMNS = [
 SHARPE_COL_IDX = COLUMNS.index("Sharpe")  # = 8
 
 PAGE = 15                # server hard-caps the response at 15 rows
-BASE_DELAY = 2.5         # pacing between requests
+BASE_DELAY = 2.5         # default pacing between requests (--delay)
+MAX_DELAY = 30.0         # cap for adaptive pacing after 429s
 MAX_429_BEFORE_REOPEN = 3
 
 LINK_RE = re.compile(r'<a[^>]*>([^<]*)</a>')
@@ -112,13 +113,27 @@ def make_payload(start, draw, sort_col, sort_dir):
     return p
 
 
-def fetch_top(limit):
-    """Page through the screener sorted by Sharpe desc until we have >= limit rows."""
+def retry_after_secs(r):
+    """Return the Retry-After header as seconds, or None if absent/not numeric."""
+    try:
+        return max(0, int(r.headers.get("Retry-After", "")))
+    except ValueError:
+        return None
+
+
+def fetch_top(limit, base_delay=BASE_DELAY):
+    """Page through the screener sorted by Sharpe desc until we have >= limit rows.
+
+    Pacing is adaptive: every 429 doubles the delay between requests (capped
+    at MAX_DELAY) for the rest of the run, and a summary is printed at the end.
+    """
     sess = open_session()
     rows = []
     start = 0
     draw = 1
     consec_429 = 0
+    total_429 = 0
+    delay = base_delay
 
     while len(rows) < limit:
         payload = make_payload(start, draw, SHARPE_COL_IDX, "desc")
@@ -132,8 +147,13 @@ def fetch_top(limit):
 
         if r.status_code == 429:
             consec_429 += 1
-            wait = min(60 + 30 * consec_429, 300)
-            print(f"[429] consecutive={consec_429}, wait {wait}s", flush=True)
+            total_429 += 1
+            delay = min(delay * 2, MAX_DELAY)
+            wait = retry_after_secs(r)
+            if wait is None:
+                wait = min(60 + 30 * consec_429, 300)
+            print(f"[429] consecutive={consec_429}, wait {wait}s; "
+                  f"pacing raised to {delay:g}s", flush=True)
             time.sleep(wait)
             if consec_429 >= MAX_429_BEFORE_REOPEN:
                 print("[refresh session]", flush=True)
@@ -155,8 +175,12 @@ def fetch_top(limit):
         start += len(batch)
         draw += 1
         if len(rows) < limit:
-            time.sleep(BASE_DELAY)
+            time.sleep(delay)
 
+    if total_429:
+        print(f"\n[rate-limited] hit HTTP 429 {total_429}x; pacing went "
+              f"{base_delay:g}s -> {delay:g}s. Consider --delay {delay:g} next time.",
+              flush=True)
     return rows
 
 
@@ -212,6 +236,7 @@ def parse_args(argv=None):
             "  %(prog)s                   # default: top 300 -> top_etfs.csv\n"
             "  %(prog)s -l 500            # top 500\n"
             "  %(prog)s -o my.csv\n"
+            "  %(prog)s -d 5              # slower pacing if rate-limited\n"
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
@@ -230,9 +255,20 @@ def parse_args(argv=None):
             "all fetched rows are kept."
         ),
     )
+    parser.add_argument(
+        "-d", "--delay",
+        type=float,
+        default=BASE_DELAY,
+        help=(
+            f"Seconds between requests (default: {BASE_DELAY:g}). "
+            "Doubled automatically on each HTTP 429."
+        ),
+    )
     args = parser.parse_args(argv)
     if args.limit < 1:
         parser.error("--limit must be >= 1")
+    if args.delay < 0:
+        parser.error("--delay must be >= 0")
     return args
 
 
@@ -243,7 +279,7 @@ def main(argv=None):
         flush=True,
     )
 
-    raw = fetch_top(args.limit)
+    raw = fetch_top(args.limit, args.delay)
     write_csv(raw, args.output)
     print(f"\n[saved] {len(raw)} rows -> {args.output}")
 
